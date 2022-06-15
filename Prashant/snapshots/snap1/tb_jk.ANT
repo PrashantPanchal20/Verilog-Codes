@@ -1,0 +1,107 @@
+-- C:\XILINX\BIN\PRASHANT
+-- VHDL Annotation Test Bench created by
+-- HDL Bencher 6.1i
+-- Mon Feb 21 22:16:38 2022
+
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_TEXTIO.ALL;
+USE STD.TEXTIO.ALL;
+
+ENTITY tb_jk IS
+END tb_jk;
+
+ARCHITECTURE testbench_arch OF tb_jk IS
+-- If you get a compiler error on the following line,
+-- from the menu do Options->Configuration select VHDL 87
+FILE RESULTS: TEXT OPEN WRITE_MODE IS "c:\xilinx\bin\prashant\tb_jk.ano";
+	COMPONENT jk_ff
+		PORT (
+			j : In  bit;
+			k : In  bit;
+			clk : In  bit;
+			q : Out  bit
+		);
+	END COMPONENT;
+
+	SIGNAL j : bit;
+	SIGNAL k : bit;
+	SIGNAL clk : bit;
+	SIGNAL q : bit;
+
+BEGIN
+	UUT : jk_ff
+	PORT MAP (
+		j => j,
+		k => k,
+		clk => clk,
+		q => q
+	);
+
+	PROCESS -- clock process for clk,
+		VARIABLE TX_TIME : INTEGER :=0;
+
+		PROCEDURE ANNOTATE_q(
+			TX_TIME : INTEGER
+		) IS
+			VARIABLE TX_STR : String(1 to 4096);
+			VARIABLE TX_LOC : LINE;
+		BEGIN
+			STD.TEXTIO.write(TX_LOC,string'("Annotate["));
+			STD.TEXTIO.write(TX_LOC, TX_TIME);
+			STD.TEXTIO.write(TX_LOC,string'(",q,"));
+			STD.TEXTIO.write(TX_LOC, q);
+			STD.TEXTIO.write(TX_LOC, string'("]"));
+			TX_STR(TX_LOC.all'range) := TX_LOC.all;
+			STD.TEXTIO.writeline(results, TX_LOC);
+			STD.TEXTIO.Deallocate(TX_LOC);
+		END;
+
+	BEGIN
+		CLOCK_LOOP : LOOP
+		clk <= transport '0';
+		WAIT FOR 10 ns;
+		TX_TIME := TX_TIME + 10;
+		clk <= transport '1';
+		WAIT FOR 10 ns;
+		TX_TIME := TX_TIME + 10;
+		ANNOTATE_q(TX_TIME);
+		WAIT FOR 40 ns;
+		TX_TIME := TX_TIME + 40;
+		clk <= transport '0';
+		WAIT FOR 40 ns;
+		TX_TIME := TX_TIME + 40;
+		END LOOP CLOCK_LOOP;
+	END PROCESS;
+
+	PROCESS   -- Process for clk
+		VARIABLE TX_OUT : LINE;
+
+		BEGIN
+		-- --------------------
+		j <= transport '0';
+		k <= transport '0';
+		-- --------------------
+		WAIT FOR 200 ns; -- Time=200 ns
+		j <= transport '1';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=300 ns
+		k <= transport '1';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=400 ns
+		j <= transport '0';
+		-- --------------------
+		WAIT FOR 110 ns; -- Time=510 ns
+		-- --------------------
+
+		STD.TEXTIO.write(TX_OUT, string'("Total[]"));
+		STD.TEXTIO.writeline(results, TX_OUT);
+		ASSERT (FALSE) REPORT
+			"Success! Simulation for annotation completed"
+			SEVERITY FAILURE;
+	END PROCESS;
+END testbench_arch;
+
+CONFIGURATION jk_ff_cfg OF tb_jk IS
+	FOR testbench_arch
+	END FOR;
+END jk_ff_cfg;

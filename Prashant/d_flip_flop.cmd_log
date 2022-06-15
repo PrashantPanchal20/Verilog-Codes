@@ -1,0 +1,8 @@
+xst -intstyle ise -ifn __projnav/d_flip_flop.xst -ofn d_flip_flop.syr
+xst -intstyle ise -ifn __projnav/d_flip_flop.xst -ofn d_flip_flop.syr
+xst -intstyle ise -ifn __projnav/d_flip_flop.xst -ofn d_flip_flop.syr
+xst -intstyle ise -ifn __projnav/d_flip_flop.xst -ofn d_flip_flop.syr
+xst -intstyle ise -ifn __projnav/d_flip_flop.xst -ofn d_flip_flop.syr
+xst -intstyle ise -ifn __projnav/d_flip_flop.xst -ofn d_flip_flop.syr
+xst -intstyle ise -ifn __projnav/d_flip_flop.xst -ofn d_flip_flop.syr
+xst -intstyle ise -ifn __projnav/d_flip_flop.xst -ofn d_flip_flop.syr

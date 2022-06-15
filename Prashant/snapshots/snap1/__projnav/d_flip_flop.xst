@@ -1,0 +1,4 @@
+set -tmpdir .
+elaborate
+-ifn d_flip_flop.prj
+-ifmt mixed

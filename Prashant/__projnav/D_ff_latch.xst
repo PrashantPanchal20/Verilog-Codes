@@ -1,0 +1,4 @@
+set -tmpdir .
+elaborate
+-ifn D_ff_latch.prj
+-ifmt mixed

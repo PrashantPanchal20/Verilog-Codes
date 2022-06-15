@@ -1,0 +1,1 @@
+set allSynthModules {Dff_pos_clk_synch_rst.MOD tb_dff.MOD}

@@ -1,0 +1,36 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.30 s | Elapsed : 0.00 / 1.00 s
+ 
+--> WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling source file "SystemVerilog.v"
+ERROR:HDLCompilers:26 - SystemVerilog.v line 18 unexpected token: '{'
+ERROR:HDLCompilers:26 - SystemVerilog.v line 18 unexpected token: ','
+ERROR:HDLCompilers:26 - SystemVerilog.v line 18 unexpected token: ','
+ERROR:HDLCompilers:26 - SystemVerilog.v line 18 unexpected token: ','
+ERROR:HDLCompilers:26 - SystemVerilog.v line 18 unexpected token: ','
+ERROR:HDLCompilers:26 - SystemVerilog.v line 18 unexpected token: ','
+ERROR:HDLCompilers:26 - SystemVerilog.v line 18 unexpected token: '}'
+ERROR:HDLCompilers:26 - SystemVerilog.v line 18 unexpected token: ';'
+ERROR:HDLCompilers:28 - SystemVerilog.v line 22 'Colors' has not been declared
+ERROR:HDLCompilers:26 - SystemVerilog.v line 24 unexpected token: 'i'
+ERROR:HDLCompilers:28 - SystemVerilog.v line 24 'i' has not been declared
+ERROR:HDLCompilers:28 - SystemVerilog.v line 24 'amp' has not been declared
+ERROR:HDLCompilers:28 - SystemVerilog.v line 24 'amp' has not been declared
+ERROR:HDLCompilers:26 - SystemVerilog.v line 24 expecting '=', found ';'
+ERROR:HDLCompilers:26 - SystemVerilog.v line 24 expecting ')', found ';'
+ERROR:HDLCompilers:26 - SystemVerilog.v line 24 expecting 'end', found '6'
+ERROR:HDLCompilers:26 - SystemVerilog.v line 24 unexpected token: '+'
+Module <enum_datatype> compiled
+ERROR:HDLCompilers:26 - SystemVerilog.v line 24 expecting 'endmodule', found '+'
+Analysis of file <enum_datatype.prj> failed.
+--> 
+
+Total memory usage is 92008 kilobytes
+
+

@@ -1,0 +1,4 @@
+set -tmpdir .
+elaborate
+-ifn alogic.prj
+-ifmt mixed

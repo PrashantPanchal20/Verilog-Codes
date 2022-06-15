@@ -1,0 +1,24 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.25 s | Elapsed : 0.00 / 1.00 s
+ 
+--> WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling source file "Dff_synch_rst.v"
+Module <Dff_pos_clk_synch_rst> compiled
+Compiling source file "shift_resister.v"
+Module <shift_resister> compiled
+No errors in compilation
+Analysis of file <shift_resister.prj> succeeded.
+ 
+CPU : 0.03 / 0.29 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 92144 kilobytes
+
+

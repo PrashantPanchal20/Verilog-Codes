@@ -1,0 +1,19 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.14 s | Elapsed : 0.00 / 0.00 s
+ 
+--> WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Xilinx/bin/Prashant/or_1.vhd in Library work.
+Architecture behavioral of Entity or_1 is up to date.
+CPU : 0.08 / 0.22 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+
+Total memory usage is 93760 kilobytes
+
+

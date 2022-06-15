@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn __projnav/sd10011_moore_over.xst -ofn sd10011_moore_over.syr
+xst -intstyle ise -ifn __projnav/sd10011_moore_over.xst -ofn sd10011_moore_over.syr
+xst -intstyle ise -ifn __projnav/sd10011_moore_over.xst -ofn sd10011_moore_over.syr
+xst -intstyle ise -ifn __projnav/sd10011_moore_over.xst -ofn sd10011_moore_over.syr
+xst -intstyle ise -ifn __projnav/sd10011_moore_over.xst -ofn sd10011_moore_over.syr
+xst -intstyle ise -ifn __projnav/sd10011_moore_over.xst -ofn sd10011_moore_over.syr

@@ -1,0 +1,24 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.77 s | Elapsed : 0.00 / 0.00 s
+ 
+--> WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling source file "jk_ff_edge_trigger.v"
+Module <jk_ff_edge_trigger> compiled
+Module <d_latch> compiled
+Module <sr_latch_gated> compiled
+No errors in compilation
+Analysis of file <jk_ff_edge_trigger.prj> succeeded.
+ 
+CPU : 0.14 / 0.91 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+
+Total memory usage is 100144 kilobytes
+
+

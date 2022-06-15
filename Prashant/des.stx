@@ -1,0 +1,22 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.21 s | Elapsed : 0.00 / 1.00 s
+ 
+--> WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling source file "test.v"
+ERROR:HDLCompilers:26 - test.v line 85 unexpected token: 'integer'
+ERROR:HDLCompilers:26 - test.v line 85 unexpected token: ';'
+ERROR:HDLCompilers:26 - test.v line 87 unexpected token: '='
+Module <des> compiled
+ERROR:HDLCompilers:26 - test.v line 87 expecting 'endmodule', found '8'
+Analysis of file <des.prj> failed.
+--> 
+
+Total memory usage is 92016 kilobytes
+
+

@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn __projnav/Dff_pos_clk_Asynch_rst.xst -ofn Dff_pos_clk_Asynch_rst.syr
+xst -intstyle ise -ifn __projnav/Dff_pos_clk_Asynch_rst.xst -ofn Dff_pos_clk_Asynch_rst.syr
+xst -intstyle ise -ifn __projnav/Dff_pos_clk_Asynch_rst.xst -ofn Dff_pos_clk_Asynch_rst.syr
+xst -intstyle ise -ifn __projnav/Dff_pos_clk_Asynch_rst.xst -ofn Dff_pos_clk_Asynch_rst.syr
+xst -intstyle ise -ifn __projnav/Dff_pos_clk_Asynch_rst.xst -ofn Dff_pos_clk_Asynch_rst.syr
+xst -intstyle ise -ifn __projnav/Dff_pos_clk_Asynch_rst.xst -ofn Dff_pos_clk_Asynch_rst.syr
+xst -intstyle ise -ifn __projnav/Dff_pos_clk_Asynch_rst.xst -ofn Dff_pos_clk_Asynch_rst.syr

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn __projnav/jk_ff_edge_trigger.xst -ofn jk_ff_edge_trigger.syr

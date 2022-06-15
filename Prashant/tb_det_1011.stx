@@ -1,0 +1,29 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.30 s | Elapsed : 0.00 / 1.00 s
+ 
+--> WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling source file "test.v"
+Module <det_1011> compiled
+Compiling source file "tb_det_1011.v"
+ERROR:HDLCompilers:26 - tb_det_1011.v line 5 expecting 'IDENTIFIER', found '1'
+ERROR:HDLCompilers:26 - tb_det_1011.v line 33 unexpected token: 'i'
+ERROR:HDLCompilers:28 - tb_det_1011.v line 33 'i' has not been declared
+ERROR:HDLCompilers:28 - tb_det_1011.v line 33 'i' has not been declared
+ERROR:HDLCompilers:26 - tb_det_1011.v line 33 expecting '=', found '+'
+ERROR:HDLCompilers:26 - tb_det_1011.v line 34 unexpected token: '1'
+ERROR:HDLCompilers:28 - tb_det_1011.v line 34 'dly' has not been declared
+ERROR:HDLCompilers:26 - tb_det_1011.v line 35 unexpected token: '1'
+Module <tb_det_1011> compiled
+ERROR:HDLCompilers:26 - tb_det_1011.v line 39 expecting 'endmodule', found '#'
+Analysis of file <tb_det_1011.prj> failed.
+--> 
+
+Total memory usage is 92272 kilobytes
+
+

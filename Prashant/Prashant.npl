@@ -1,0 +1,55 @@
+JDF G
+// Created by Project Navigator ver 1.0
+PROJECT Prashant
+DESIGN prashant
+DEVFAM spartan2
+DEVFAMTIME 0
+DEVICE xc2s15
+DEVICETIME 0
+DEVPKG cs144
+DEVPKGTIME 0
+DEVSPEED -6
+DEVSPEEDTIME 0
+DEVTOPLEVELMODULETYPE HDL
+TOPLEVELMODULETYPETIME 0
+DEVSYNTHESISTOOL XST (VHDL/Verilog)
+SYNTHESISTOOLTIME 0
+DEVSIMULATOR Other
+SIMULATORTIME 0
+DEVGENERATEDSIMULATIONMODEL VHDL
+GENERATEDSIMULATIONMODELTIME 0
+SOURCE and_gate.v
+SOURCE xor_gate.v
+SOURCE adder.v
+SOURCE jk_ff.v
+STIMULUS tb_jk.tbw
+SOURCE jk_ff_edge_trigger.v
+SOURCE alu.v
+SOURCE tb_dff.v
+SOURCE ripple_counter.v
+SOURCE Dff_synch_rst.v
+SOURCE Dff_pos_clk_Asynch_rst.v
+SOURCE file_open.v
+SOURCE test.v
+SOURCE shift_resister.v
+SOURCE alogic.v
+SOURCE tb_alogic.v
+SOURCE dec_3x8.v
+SOURCE tb_det_1011.v
+SOURCE sd10011_moore_over.v
+SOURCE even_number.v
+SOURCE happy_number.v
+SOURCE Round_Robin_Project.v
+SOURCE h_a.v
+STIMULUS h_a_tb.tbw
+SOURCE system.v
+LIBFILE jk_tb.v verilog ***
+LIBFILE d_latch.v verilog ***
+LIBFILE d_latch0.v verilog ***
+LIBFILE tb_jk.v verilog ***
+[STATUS-ALL]
+happy_number.stxFile=ERRORS,0
+jk_ff.stxFile=ERRORS,0
+tb_dff.stxFile=ERRORS,0
+[STRATEGY-LIST]
+Normal=True

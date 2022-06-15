@@ -1,0 +1,19 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.87 s | Elapsed : 0.00 / 1.00 s
+ 
+--> WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Xilinx/bin/Prashant/8_3_encoder.vhd in Library work.
+ERROR:HDLParsers:164 - C:/Xilinx/bin/Prashant/8_3_encoder.vhd Line 11. parse error, unexpected INTEGER_LITERAL, expecting IDENTIFIER
+CPU : 0.26 / 1.13 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 93760 kilobytes
+
+

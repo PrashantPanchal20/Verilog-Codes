@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn __projnav/comb.xst -ofn comb.syr
+xst -intstyle ise -ifn __projnav/comb.xst -ofn comb.syr

@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn __projnav/half_subtractor1.xst -ofn half_subtractor1.syr
+xst -intstyle ise -ifn __projnav/half_subtractor1.xst -ofn half_subtractor1.syr

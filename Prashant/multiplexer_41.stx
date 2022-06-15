@@ -1,0 +1,19 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.10 s | Elapsed : 0.00 / 0.00 s
+ 
+--> WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Xilinx/bin/Prashant/Multiplexer_41.vhd in Library work.
+Entity <Multiplexer_41> (Architecture <Behavioral>) compiled.
+CPU : 0.08 / 0.18 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+
+Total memory usage is 93760 kilobytes
+
+

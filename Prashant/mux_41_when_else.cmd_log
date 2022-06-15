@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn __projnav/mux_41_when_else.xst -ofn mux_41_when_else.syr

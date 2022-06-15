@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn __projnav/xor1.xst -ofn xor1.syr

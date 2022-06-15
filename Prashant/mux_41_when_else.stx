@@ -1,0 +1,19 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.11 s | Elapsed : 0.00 / 0.00 s
+ 
+--> WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Xilinx/bin/Prashant/Mux_41_when_else.vhd in Library work.
+Entity <Mux_41_when_else> (Architecture <Behavioral>) compiled.
+CPU : 0.13 / 0.24 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+
+Total memory usage is 93760 kilobytes
+
+

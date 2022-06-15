@@ -1,0 +1,19 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.46 s | Elapsed : 0.00 / 1.00 s
+ 
+--> WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Xilinx/bin/Prashant/Full_Adder1.vhd in Library work.
+Entity <Full_Adder1> (Architecture <Data_Flow_modling>) compiled.
+CPU : 0.22 / 0.68 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 93760 kilobytes
+
+

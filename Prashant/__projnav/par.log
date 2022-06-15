@@ -1,0 +1,3 @@
+Place & Route Module mux_4_1_case_sel_stetement . . .
+PAR command line: par -w -intstyle ise -ol std -t 1 mux_4_1_case_sel_stetement_map.ncd mux_4_1_case_sel_stetement.ncd mux_4_1_case_sel_stetement.pcf
+PAR completed successfully

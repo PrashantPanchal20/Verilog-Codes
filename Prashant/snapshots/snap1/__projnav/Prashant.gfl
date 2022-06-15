@@ -1,0 +1,1886 @@
+# XST (Creating Lso File) : 
+or_gate.lso
+# Check Syntax
+or_gate.stx
+# xst flow : RunXST
+or_gate.syr
+or_gate.prj
+or_gate.sprj
+or_gate.ana
+or_gate.stx
+or_gate.cmd_log
+or_gate.ngr
+# ModelSim : Launch ModelSim Simulator
+or_gate.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# View RTL Schematic
+or_gate.ngr
+# ProjNav -> New -> Test Bench
+__projnav/createTB.err
+# ModelSim : Simulate Behavioral VHDL Model
+or_gate_or_gate_testbanch_vhd_tb.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# xst flow : RunXST
+or_gate.syr
+or_gate.prj
+or_gate.sprj
+or_gate.ana
+or_gate.stx
+or_gate.cmd_log
+or_gate.ngc
+or_gate.ngr
+# Implmentation : Translate
+__projnav/ngdbuild.err
+__projnav/ednTOngd_tcl.rsp
+c:\xilinx\bin\prashant/_ngo
+or_gate.ngd
+or_gate_ngdbuild.nav
+or_gate.bld
+.untf
+or_gate.cmd_log
+# Implementation : Generate Post-Translate Simulation Model
+or_gate_translate.vhd
+or_gate_translate.vhd
+or_gate_translate.nlf
+or_gate.xlate_nlf
+or_gate.vhdsim_xlate
+or_gate.cmd_log
+# ModelSim : Simulate Post-Translate VHDL Model
+or_gate_or_gate_testbanch_vhd_tb.ndo
+# ModelSim : Simulate Post-Translate VHDL Model
+vsim.wlf
+# XST (Creating Lso File) : 
+case_sel.lso
+# xst flow : RunXST
+case_sel.syr
+case_sel.prj
+case_sel.sprj
+case_sel.ana
+case_sel.stx
+case_sel.cmd_log
+# Check Syntax
+case_sel.stx
+# XST (Creating Lso File) : 
+case_sel.lso
+# Check Syntax
+case_sel.stx
+# xst flow : RunXST
+case_sel.syr
+case_sel.prj
+case_sel.sprj
+case_sel.ana
+case_sel.stx
+case_sel.cmd_log
+case_sel.ngr
+# View RTL Schematic
+case_sel.ngr
+# ModelSim : Launch ModelSim Simulator
+case_sel.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# XST (Creating Lso File) : 
+half_adder.lso
+# Check Syntax
+half_adder.stx
+# XST (Creating Lso File) : 
+and1.lso
+# Check Syntax
+and1.stx
+# XST (Creating Lso File) : 
+xor1.lso
+# Check Syntax
+xor1.stx
+# XST (Creating Lso File) : 
+xor1.lso
+# Check Syntax
+xor1.stx
+# xst flow : RunXST
+xor1.syr
+xor1.prj
+xor1.sprj
+xor1.ana
+xor1.stx
+xor1.cmd_log
+xor1.ngr
+# View RTL Schematic
+xor1.ngr
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+or1.lso
+# Check Syntax
+or1.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+or_1.lso
+# Check Syntax
+or_1.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+or_1.lso
+# Check Syntax
+or_1.stx
+# XST (Creating Lso File) : 
+or_1.lso
+# Check Syntax
+or_1.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder1.lso
+# Check Syntax
+full_adder1.stx
+# xst flow : RunXST
+full_adder1.syr
+full_adder1.prj
+full_adder1.sprj
+full_adder1.ana
+full_adder1.stx
+full_adder1.cmd_log
+full_adder1.ngr
+# View RTL Schematic
+full_adder1.ngr
+# ProjNav -> New -> Test Bench
+__projnav/createTB.err
+# ModelSim : Simulate Behavioral VHDL Model
+full_adder1_full_adder_test_banch_vhd_tb.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+# xst flow : RunXST
+full_adder.syr
+full_adder.prj
+full_adder.sprj
+full_adder.ana
+full_adder.stx
+full_adder.cmd_log
+xor1.ngr
+full_adder.ngr
+# View RTL Schematic
+full_adder.ngr
+# ProjNav -> New Source -> TBW
+C:\Xilinx\bin\Prashant\__projnav\hb_cmds
+# Bencher Waveform : PDCL (jhdparse)
+# XST (Creating Lso File) : 
+mux_4_1_case_sel_stetement.lso
+# Check Syntax
+mux_4_1_case_sel_stetement.stx
+# XST (Creating Lso File) : 
+mux_4_1_case_sel_stetement.lso
+# xst flow : RunXST
+mux_4_1_case_sel_stetement.syr
+mux_4_1_case_sel_stetement.prj
+mux_4_1_case_sel_stetement.sprj
+mux_4_1_case_sel_stetement.ana
+mux_4_1_case_sel_stetement.stx
+mux_4_1_case_sel_stetement.cmd_log
+mux_4_1_case_sel_stetement.ngc
+mux_4_1_case_sel_stetement.ngr
+# Implmentation : Translate
+__projnav/ngdbuild.err
+__projnav/ednTOngd_tcl.rsp
+c:\xilinx\bin\prashant/_ngo
+mux_4_1_case_sel_stetement.ngd
+mux_4_1_case_sel_stetement_ngdbuild.nav
+mux_4_1_case_sel_stetement.bld
+.untf
+mux_4_1_case_sel_stetement.cmd_log
+# Implementation : Map
+mux_4_1_case_sel_stetement_map.ncd
+mux_4_1_case_sel_stetement.ngm
+mux_4_1_case_sel_stetement.pcf
+mux_4_1_case_sel_stetement.nc1
+mux_4_1_case_sel_stetement.mrp
+mux_4_1_case_sel_stetement_map.mrp
+mux_4_1_case_sel_stetement.mdf
+__projnav/map.log
+mux_4_1_case_sel_stetement.cmd_log
+MAP_NO_GUIDE_FILE_CPF "mux_4_1_case_sel_stetement"
+# Implmentation : Post-Place & Route Timing
+__projnav/ncdTOtwr_tcl.rsp
+__projnav/posttrc.log
+mux_4_1_case_sel_stetement.twr
+mux_4_1_case_sel_stetement.twx
+mux_4_1_case_sel_stetement.tsi
+mux_4_1_case_sel_stetement.cmd_log
+# Implmentation : Place & Route
+__projnav/nc1TOncd_tcl.rsp
+mux_4_1_case_sel_stetement.ncd
+mux_4_1_case_sel_stetement.par
+mux_4_1_case_sel_stetement.pad
+mux_4_1_case_sel_stetement_pad.txt
+mux_4_1_case_sel_stetement_pad.csv
+mux_4_1_case_sel_stetement.pad_txt
+mux_4_1_case_sel_stetement.dly
+reportgen.log
+mux_4_1_case_sel_stetement.xpi
+mux_4_1_case_sel_stetement.grf
+mux_4_1_case_sel_stetement.itr
+mux_4_1_case_sel_stetement_last_par.ncd
+__projnav/par.log
+mux_4_1_case_sel_stetement.placed_ncd_tracker
+mux_4_1_case_sel_stetement.routed_ncd_tracker
+mux_4_1_case_sel_stetement.cmd_log
+PAR_NO_GUIDE_FILE_CPF "mux_4_1_case_sel_stetement"
+# View RTL Schematic
+mux_4_1_case_sel_stetement.ngr
+# ProjNav -> New -> Test Bench
+__projnav/createTB.err
+# ModelSim : Simulate Behavioral VHDL Model
+full_adder_full_adder_testbanch_vhd_tb.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# XST (Creating Lso File) : 
+half_adder.lso
+# Check Syntax
+half_adder.stx
+# ModelSim : Simulate Behavioral VHDL Model
+full_adder_full_adder_testbanch_vhd_tb.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+full_adder_full_adder_testbanch_vhd_tb.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# xst flow : RunXST
+full_adder.syr
+full_adder.prj
+full_adder.sprj
+full_adder.ana
+full_adder.stx
+full_adder.cmd_log
+full_adder.ngc
+xor1.ngr
+full_adder.ngr
+# Implmentation : Translate
+__projnav/ngdbuild.err
+__projnav/ednTOngd_tcl.rsp
+c:\xilinx\bin\prashant/_ngo
+full_adder.ngd
+full_adder_ngdbuild.nav
+full_adder.bld
+.untf
+full_adder.cmd_log
+# Implementation : Generate Post-Translate Simulation Model
+full_adder_translate.vhd
+full_adder_translate.vhd
+full_adder_translate.nlf
+full_adder.xlate_nlf
+full_adder.vhdsim_xlate
+full_adder.cmd_log
+# ModelSim : Simulate Post-Translate VHDL Model
+full_adder_full_adder_testbanch_vhd_tb.ndo
+# ModelSim : Simulate Post-Translate VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+full_adder_full_adder_testbanch_vhd_tb.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+testbench_structural_adder.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Post-Translate VHDL Model
+testbench_structural_adder.ndo
+# ModelSim : Simulate Post-Translate VHDL Model
+vsim.wlf
+# ModelSim : Simulate Post-Map VHDL Model
+testbench_structural_adder.mdo
+# ModelSim : Simulate Post-Map VHDL Model
+vsim.wlf
+# ProjNav -> New -> Test Bench
+__projnav/createTB.err
+# ModelSim : Simulate Behavioral VHDL Model
+testbench_structural_adder.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# XST (Creating Lso File) : 
+full_adder.lso
+# Check Syntax
+full_adder.stx
+full_adder.ngc
+# XST (Creating Lso File) : 
+full_adder.lso
+# xst flow : RunXST
+full_adder.syr
+full_adder.prj
+full_adder.sprj
+full_adder.ana
+full_adder.stx
+full_adder.cmd_log
+full_adder.ngc
+xor1.ngr
+full_adder.ngr
+# View RTL Schematic
+full_adder.ngr
+# ModelSim : Simulate Behavioral VHDL Model
+testbench_structural_adder.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+testbench_structural_adder.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+testbench_structural_adder.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+testbench_structural_adder.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+full_adder_structural_vhdl.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ModelSim : Simulate Behavioral VHDL Model
+full_adder_structural_vhdl.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# ProjNav -> New -> Test Bench
+__projnav/createTB.err
+# ProjNav -> New -> Test Bench
+__projnav/createTB.err
+# XST (Creating Lso File) : 
+or_1.lso
+# Check Syntax
+or_1.stx
+# XST (Creating Lso File) : 
+or_gate.lso
+# Check Syntax
+or_gate.stx
+or_gate.ngc
+# XST (Creating Lso File) : 
+8_3_encoder.lso
+# Check Syntax
+8_3_encoder.stx
+# XST (Creating Lso File) : 
+8_3_encoder.lso
+# Check Syntax
+8_3_encoder.stx
+# XST (Creating Lso File) : 
+8_3_encoder.lso
+# Check Syntax
+8_3_encoder.stx
+# XST (Creating Lso File) : 
+8_3_encoder.lso
+# Check Syntax
+8_3_encoder.stx
+# XST (Creating Lso File) : 
+8_3_encoder.lso
+# Check Syntax
+8_3_encoder.stx
+# XST (Creating Lso File) : 
+8_3_encoder.lso
+# Check Syntax
+8_3_encoder.stx
+# XST (Creating Lso File) : 
+8_3_encoder.lso
+# Check Syntax
+8_3_encoder.stx
+# XST (Creating Lso File) : 
+8_3_encoder.lso
+# Check Syntax
+8_3_encoder.stx
+# XST (Creating Lso File) : 
+8_3_encoder.lso
+# Check Syntax
+8_3_encoder.stx
+# View RTL Schematic
+full_adder1.ngr
+# XST (Creating Lso File) : 
+encoder_83.lso
+# Check Syntax
+encoder_83.stx
+# xst flow : RunXST
+encoder_83.syr
+encoder_83.prj
+encoder_83.sprj
+encoder_83.ana
+encoder_83.stx
+encoder_83.cmd_log
+encoder_83.ngr
+# View RTL Schematic
+encoder_83.ngr
+# XST (Creating Lso File) : 
+encoder_83_loop_statement.lso
+# Check Syntax
+encoder_83_loop_statement.stx
+# XST (Creating Lso File) : 
+encoder_83_loop_statement.lso
+# Check Syntax
+encoder_83_loop_statement.stx
+# XST (Creating Lso File) : 
+encoder_83_loop_statement.lso
+# Check Syntax
+encoder_83_loop_statement.stx
+# XST (Creating Lso File) : 
+encoder_83_loop_statement.lso
+# Check Syntax
+encoder_83_loop_statement.stx
+# XST (Creating Lso File) : 
+encoder_83_loop_statement.lso
+# Check Syntax
+encoder_83_loop_statement.stx
+# XST (Creating Lso File) : 
+encoder_83_loop_statement.lso
+# Check Syntax
+encoder_83_loop_statement.stx
+# XST (Creating Lso File) : 
+encoder_83_loop_statement.lso
+# Check Syntax
+encoder_83_loop_statement.stx
+# XST (Creating Lso File) : 
+multiplexer_41.lso
+# Check Syntax
+multiplexer_41.stx
+# XST (Creating Lso File) : 
+multiplexer_41.lso
+# Check Syntax
+multiplexer_41.stx
+# XST (Creating Lso File) : 
+multiplexer_41.lso
+# Check Syntax
+multiplexer_41.stx
+# XST (Creating Lso File) : 
+multiplexer_41.lso
+# Check Syntax
+multiplexer_41.stx
+# XST (Creating Lso File) : 
+multiplexer_41.lso
+# Check Syntax
+multiplexer_41.stx
+# XST (Creating Lso File) : 
+multiplexer_41.lso
+# Check Syntax
+multiplexer_41.stx
+# xst flow : RunXST
+multiplexer_41.syr
+multiplexer_41.prj
+multiplexer_41.sprj
+multiplexer_41.ana
+multiplexer_41.stx
+multiplexer_41.cmd_log
+multiplexer_41.ngr
+# View RTL Schematic
+multiplexer_41.ngr
+# XST (Creating Lso File) : 
+mux_41_when_else.lso
+# Check Syntax
+mux_41_when_else.stx
+# XST (Creating Lso File) : 
+mux_41_when_else.lso
+# Check Syntax
+mux_41_when_else.stx
+# XST (Creating Lso File) : 
+mux_41_when_else.lso
+# Check Syntax
+mux_41_when_else.stx
+# XST (Creating Lso File) : 
+mux_41_when_else.lso
+# Check Syntax
+mux_41_when_else.stx
+# XST (Creating Lso File) : 
+mux_41_when_else.lso
+# Check Syntax
+mux_41_when_else.stx
+# XST (Creating Lso File) : 
+mux_41_when_else.lso
+# Check Syntax
+mux_41_when_else.stx
+# XST (Creating Lso File) : 
+mux_41_when_else.lso
+# Check Syntax
+mux_41_when_else.stx
+# XST (Creating Lso File) : 
+mux_41_when_else.lso
+# Check Syntax
+mux_41_when_else.stx
+# XST (Creating Lso File) : 
+mux_41_when_else.lso
+# Check Syntax
+mux_41_when_else.stx
+# xst flow : RunXST
+mux_41_when_else.syr
+mux_41_when_else.prj
+mux_41_when_else.sprj
+mux_41_when_else.ana
+mux_41_when_else.stx
+mux_41_when_else.cmd_log
+mux_41_when_else.ngr
+# View RTL Schematic
+mux_41_when_else.ngr
+# XST (Creating Lso File) : 
+encoder_83_loop_statement.lso
+# Check Syntax
+encoder_83_loop_statement.stx
+# XST (Creating Lso File) : 
+encoder_83_loop_statement.lso
+# Check Syntax
+encoder_83_loop_statement.stx
+# XST (Creating Lso File) : 
+encoder_83_loop_statement.lso
+# Check Syntax
+encoder_83_loop_statement.stx
+# XST (Creating Lso File) : 
+encoder_83_loop_statement.lso
+# Check Syntax
+encoder_83_loop_statement.stx
+# XST (Creating Lso File) : 
+encoder_83_loop_statement.lso
+# Check Syntax
+encoder_83_loop_statement.stx
+# XST (Creating Lso File) : 
+encoder_83_loop_statement.lso
+# Check Syntax
+encoder_83_loop_statement.stx
+# XST (Creating Lso File) : 
+TEST.lso
+# xst flow : RunXST
+TEST.syr
+TEST.prj
+TEST.sprj
+TEST.ana
+TEST.stx
+TEST.cmd_log
+# xst flow : RunXST
+TEST.syr
+TEST.prj
+TEST.sprj
+TEST.ana
+TEST.stx
+TEST.cmd_log
+# xst flow : RunXST
+TEST.syr
+TEST.prj
+TEST.sprj
+TEST.ana
+TEST.stx
+TEST.cmd_log
+# Edit Constraints (Text)
+__projnav/parentEditConstraintsTextApp_tcl.rsp
+# Edit Constraints (Text)
+__projnav/parentEditConstraintsTextApp_tcl.rsp
+# XST (Creating Lso File) : 
+TEST.lso
+# xst flow : RunXST
+TEST.syr
+TEST.prj
+TEST.sprj
+TEST.ana
+TEST.stx
+TEST.cmd_log
+TEST.ngc
+TEST.ngr
+# Implmentation : Translate
+__projnav/ngdbuild.err
+__projnav/ednTOngd_tcl.rsp
+c:\xilinx\bin\prashant/_ngo
+TEST.ngd
+TEST_ngdbuild.nav
+TEST.bld
+.untf
+TEST.cmd_log
+# View RTL Schematic
+TEST.ngr
+# Implmentation : Translate
+__projnav/ngdbuild.err
+__projnav/ednTOngd_tcl.rsp
+c:\xilinx\bin\prashant/_ngo
+TEST.ngd
+TEST_ngdbuild.nav
+TEST.bld
+.untf
+TEST.cmd_log
+# Implmentation : Translate
+__projnav/ngdbuild.err
+__projnav/ednTOngd_tcl.rsp
+c:\xilinx\bin\prashant/_ngo
+TEST.ngd
+TEST_ngdbuild.nav
+TEST.bld
+.untf
+TEST.cmd_log
+# Implmentation : Translate
+__projnav/ngdbuild.err
+__projnav/ednTOngd_tcl.rsp
+c:\xilinx\bin\prashant/_ngo
+TEST.ngd
+TEST_ngdbuild.nav
+TEST.bld
+.untf
+TEST.cmd_log
+# xst flow : RunXST
+or_gate.syr
+or_gate.prj
+or_gate.sprj
+or_gate.ana
+or_gate.stx
+or_gate.cmd_log
+or_gate.ngc
+or_gate.ngr
+# Implmentation : Translate
+__projnav/ngdbuild.err
+__projnav/ednTOngd_tcl.rsp
+c:\xilinx\bin\prashant/_ngo
+or_gate.ngd
+or_gate_ngdbuild.nav
+or_gate.bld
+.untf
+or_gate.cmd_log
+# Implementation : Generate Post-Translate Simulation Model
+or_gate_translate.vhd
+or_gate_translate.vhd
+or_gate_translate.nlf
+or_gate.xlate_nlf
+or_gate.vhdsim_xlate
+or_gate.cmd_log
+# Assign Package Pins Post-Translate
+__projnav/xlatePace.rsp
+# Implmentation : Translate
+__projnav/ngdbuild.err
+__projnav/ednTOngd_tcl.rsp
+c:\xilinx\bin\prashant/_ngo
+or_gate.ngd
+or_gate_ngdbuild.nav
+or_gate.bld
+or_gate.ucf.untf
+or_gate.cmd_log
+# XST (Creating Lso File) : 
+bcd_to_7segement_decoder.lso
+# Check Syntax
+bcd_to_7segement_decoder.stx
+# XST (Creating Lso File) : 
+bcd_to_7segement_decoder.lso
+# Check Syntax
+bcd_to_7segement_decoder.stx
+# XST (Creating Lso File) : 
+bcd_to_7segement_decoder.lso
+# Check Syntax
+bcd_to_7segement_decoder.stx
+# xst flow : RunXST
+bcd_to_7segement_decoder.syr
+bcd_to_7segement_decoder.prj
+bcd_to_7segement_decoder.sprj
+bcd_to_7segement_decoder.ana
+bcd_to_7segement_decoder.stx
+bcd_to_7segement_decoder.cmd_log
+bcd_to_7segement_decoder.ngr
+# View RTL Schematic
+bcd_to_7segement_decoder.ngr
+# xst flow : RunXST
+bcd_to_7segement_decoder.syr
+bcd_to_7segement_decoder.prj
+bcd_to_7segement_decoder.sprj
+bcd_to_7segement_decoder.ana
+bcd_to_7segement_decoder.stx
+bcd_to_7segement_decoder.cmd_log
+bcd_to_7segement_decoder.ngc
+bcd_to_7segement_decoder.ngr
+# Implmentation : Translate
+__projnav/ngdbuild.err
+__projnav/ednTOngd_tcl.rsp
+c:\xilinx\bin\prashant/_ngo
+bcd_to_7segement_decoder.ngd
+bcd_to_7segement_decoder_ngdbuild.nav
+bcd_to_7segement_decoder.bld
+.untf
+bcd_to_7segement_decoder.cmd_log
+# Assign Package Pins Post-Translate
+__projnav/xlatePace.rsp
+# ModelSim : Launch ModelSim Simulator
+bcd_to_7segement_decoder.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# XST (Creating Lso File) : 
+d_flip_flop.lso
+# Check Syntax
+d_flip_flop.stx
+# XST (Creating Lso File) : 
+d_flip_flop.lso
+# Check Syntax
+d_flip_flop.stx
+# XST (Creating Lso File) : 
+d_flip_flop.lso
+# Check Syntax
+d_flip_flop.stx
+# XST (Creating Lso File) : 
+d_flip_flop.lso
+# Check Syntax
+d_flip_flop.stx
+# XST (Creating Lso File) : 
+d_flip_flop.lso
+# Check Syntax
+d_flip_flop.stx
+# xst flow : RunXST
+d_flip_flop.syr
+d_flip_flop.prj
+d_flip_flop.sprj
+d_flip_flop.ana
+d_flip_flop.stx
+d_flip_flop.cmd_log
+# xst flow : RunXST
+d_flip_flop.syr
+d_flip_flop.prj
+d_flip_flop.sprj
+d_flip_flop.ana
+d_flip_flop.stx
+d_flip_flop.cmd_log
+# Check Syntax
+d_flip_flop.stx
+# xst flow : RunXST
+d_flip_flop.syr
+d_flip_flop.prj
+d_flip_flop.sprj
+d_flip_flop.ana
+d_flip_flop.stx
+d_flip_flop.cmd_log
+# Check Syntax
+d_flip_flop.stx
+# xst flow : RunXST
+d_flip_flop.syr
+d_flip_flop.prj
+d_flip_flop.sprj
+d_flip_flop.ana
+d_flip_flop.stx
+d_flip_flop.cmd_log
+# ModelSim : Launch ModelSim Simulator
+d_flip_flop.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# Check Syntax
+d_flip_flop.stx
+# XST (Creating Lso File) : 
+d_flip_flop.lso
+# Check Syntax
+d_flip_flop.stx
+# xst flow : RunXST
+d_flip_flop.syr
+d_flip_flop.prj
+d_flip_flop.sprj
+d_flip_flop.ana
+d_flip_flop.stx
+d_flip_flop.cmd_log
+# xst flow : RunXST
+d_flip_flop.syr
+d_flip_flop.prj
+d_flip_flop.sprj
+d_flip_flop.ana
+d_flip_flop.stx
+d_flip_flop.cmd_log
+# XST (Creating Lso File) : 
+full_adder_using_half_adder.lso
+# Check Syntax
+full_adder_using_half_adder.stx
+or_gate.ngc
+# XST (Creating Lso File) : 
+full_adder_using_half_adder.lso
+# Check Syntax
+full_adder_using_half_adder.stx
+or_gate.ngc
+# XST (Creating Lso File) : 
+full_adder_using_half_adder.lso
+# Check Syntax
+full_adder_using_half_adder.stx
+# XST (Creating Lso File) : 
+full_adder_using_half_adder.lso
+# Check Syntax
+full_adder_using_half_adder.stx
+# XST (Creating Lso File) : 
+full_adder_using_half_adder.lso
+# Check Syntax
+full_adder_using_half_adder.stx
+# XST (Creating Lso File) : 
+full_adder_using_half_adder.lso
+# Check Syntax
+full_adder_using_half_adder.stx
+# XST (Creating Lso File) : 
+full_adder_using_half_adder.lso
+# Check Syntax
+full_adder_using_half_adder.stx
+or_gate.ngc
+# XST (Creating Lso File) : 
+full_adder_using_half_adder.lso
+# Check Syntax
+full_adder_using_half_adder.stx
+or_gate.ngc
+# XST (Creating Lso File) : 
+half_adder.lso
+# Check Syntax
+half_adder.stx
+# xst flow : RunXST
+half_adder.syr
+half_adder.prj
+half_adder.sprj
+half_adder.ana
+half_adder.stx
+half_adder.cmd_log
+xor1.ngr
+half_adder.ngr
+# View RTL Schematic
+half_adder.ngr
+# XST (Creating Lso File) : 
+full_adder_using_half_adder.lso
+# Check Syntax
+full_adder_using_half_adder.stx
+or_gate.ngc
+# XST (Creating Lso File) : 
+full_adder_using_half_adder.lso
+# Check Syntax
+full_adder_using_half_adder.stx
+or_gate.ngc
+# XST (Creating Lso File) : 
+full_adder_using_half_adder.lso
+# Check Syntax
+full_adder_using_half_adder.stx
+or_gate.ngc
+# XST (Creating Lso File) : 
+encoder_83_loop_statement.lso
+# Check Syntax
+encoder_83_loop_statement.stx
+# XST (Creating Lso File) : 
+encoder_83_loop_statement.lso
+# Check Syntax
+encoder_83_loop_statement.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# xst flow : RunXST
+half_subtractor_behavioural.syr
+half_subtractor_behavioural.prj
+half_subtractor_behavioural.sprj
+half_subtractor_behavioural.ana
+half_subtractor_behavioural.stx
+half_subtractor_behavioural.cmd_log
+half_subtractor_behavioural.ngr
+# ModelSim : Launch ModelSim Simulator
+half_subtractor_behavioural.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# XST (Creating Lso File) : 
+half_subtractor1.lso
+# Check Syntax
+half_subtractor1.stx
+# xst flow : RunXST
+half_subtractor1.syr
+half_subtractor1.prj
+half_subtractor1.sprj
+half_subtractor1.ana
+half_subtractor1.stx
+half_subtractor1.cmd_log
+half_subtractor1.ngr
+# View RTL Schematic
+half_subtractor1.ngr
+# ModelSim : Launch ModelSim Simulator
+half_subtractor1.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# XST (Creating Lso File) : 
+half_subtractor1.lso
+# Check Syntax
+half_subtractor1.stx
+# View RTL Schematic
+half_subtractor_behavioural.ngr
+# ModelSim : Launch ModelSim Simulator
+half_subtractor1.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# XST (Creating Lso File) : 
+half_subtractor1.lso
+# Check Syntax
+half_subtractor1.stx
+# ModelSim : Launch ModelSim Simulator
+half_subtractor1.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# xst flow : RunXST
+half_subtractor1.syr
+half_subtractor1.prj
+half_subtractor1.sprj
+half_subtractor1.ana
+half_subtractor1.stx
+half_subtractor1.cmd_log
+half_subtractor1.ngr
+# View RTL Schematic
+half_subtractor_behavioural.ngr
+# View RTL Schematic
+half_subtractor1.ngr
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# View RTL Schematic
+half_subtractor_behavioural.ngr
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# XST (Creating Lso File) : 
+half_subtractor_behavioural.lso
+# Check Syntax
+half_subtractor_behavioural.stx
+# xst flow : RunXST
+half_subtractor_behavioural.syr
+half_subtractor_behavioural.prj
+half_subtractor_behavioural.sprj
+half_subtractor_behavioural.ana
+half_subtractor_behavioural.stx
+half_subtractor_behavioural.cmd_log
+half_subtractor_behavioural.ngr
+# View RTL Schematic
+half_subtractor_behavioural.ngr
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+d_flip_flop.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# xst flow : RunXST
+d_flip_flop.syr
+d_flip_flop.prj
+d_flip_flop.sprj
+d_flip_flop.ana
+d_flip_flop.stx
+d_flip_flop.cmd_log
+# Check Syntax
+d_flip_flop.stx
+# xst flow : RunXST
+d_flip_flop.syr
+d_flip_flop.prj
+d_flip_flop.sprj
+d_flip_flop.ana
+d_flip_flop.stx
+d_flip_flop.cmd_log
+# View RTL Schematic
+bcd_to_7segement_decoder.ngr
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# VHDL : Create Schematic Symbol
+__projnav/tb.rsp
+bcd_to_7segement_decoder.spl
+__projnav/vhd2spl.err
+# Check Syntax
+d_flip_flop.stx
+# XST (Creating Lso File) : 
+TEST.lso
+# Check Syntax
+TEST.stx
+TEST.ngc
+# xst flow : RunXST
+TEST.syr
+TEST.prj
+TEST.sprj
+TEST.ana
+TEST.stx
+TEST.cmd_log
+TEST.ngc
+TEST.ngr
+# View RTL Schematic
+TEST.ngr
+# XST (Creating Lso File) : 
+and_gate.lso
+# Check Syntax
+and_gate.stx
+# xst flow : RunXST
+and_gate.syr
+and_gate.prj
+and_gate.sprj
+and_gate.ana
+and_gate.stx
+and_gate.cmd_log
+and_gate.ngr
+# View RTL Schematic
+and_gate.ngr
+# ModelSim : Launch ModelSim Simulator
+and_gate.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# XST (Creating Lso File) : 
+and_gate.lso
+# Check Syntax
+and_gate.stx
+# xst flow : RunXST
+and_gate.syr
+and_gate.prj
+and_gate.sprj
+and_gate.ana
+and_gate.stx
+and_gate.cmd_log
+and_gate.ngr
+# ModelSim : Launch ModelSim Simulator
+and_gate.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# View RTL Schematic
+and_gate.ngr
+# XST (Creating Lso File) : 
+xor_gate.lso
+# Check Syntax
+xor_gate.stx
+# xst flow : RunXST
+xor_gate.syr
+xor_gate.prj
+xor_gate.sprj
+xor_gate.ana
+xor_gate.stx
+xor_gate.cmd_log
+xor_gate.ngr
+# View RTL Schematic
+xor_gate.ngr
+# ModelSim : Launch ModelSim Simulator
+xor_gate.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# XST (Creating Lso File) : 
+adder.lso
+# Check Syntax
+adder.stx
+# xst flow : RunXST
+adder.syr
+adder.prj
+adder.sprj
+adder.ana
+adder.stx
+adder.cmd_log
+# XST (Creating Lso File) : 
+adder.lso
+# Check Syntax
+adder.stx
+# XST (Creating Lso File) : 
+adder.lso
+# Check Syntax
+adder.stx
+# XST (Creating Lso File) : 
+adder.lso
+# xst flow : RunXST
+adder.syr
+adder.prj
+adder.sprj
+adder.ana
+adder.stx
+adder.cmd_log
+# XST (Creating Lso File) : 
+jk_ff.lso
+# Check Syntax
+jk_ff.stx
+# XST (Creating Lso File) : 
+jk_ff.lso
+# Check Syntax
+jk_ff.stx
+# XST (Creating Lso File) : 
+and_gate.lso
+# Check Syntax
+and_gate.stx
+# xst flow : RunXST
+and_gate.syr
+and_gate.prj
+and_gate.sprj
+and_gate.ana
+and_gate.stx
+and_gate.cmd_log
+and_gate.ngr
+# View RTL Schematic
+and_gate.ngr
+# XST (Creating Lso File) : 
+jk_ff.lso
+# Check Syntax
+jk_ff.stx
+# XST (Creating Lso File) : 
+jk_ff.lso
+# Check Syntax
+jk_ff.stx
+# XST (Creating Lso File) : 
+jk_ff.lso
+# Check Syntax
+jk_ff.stx
+# xst flow : RunXST
+jk_ff.syr
+jk_ff.prj
+jk_ff.sprj
+jk_ff.ana
+jk_ff.stx
+jk_ff.cmd_log
+# XST (Creating Lso File) : 
+jk_ff.lso
+# Check Syntax
+jk_ff.stx
+# xst flow : RunXST
+jk_ff.syr
+jk_ff.prj
+jk_ff.sprj
+jk_ff.ana
+jk_ff.stx
+jk_ff.cmd_log
+# xst flow : RunXST
+jk_ff.syr
+jk_ff.prj
+jk_ff.sprj
+jk_ff.ana
+jk_ff.stx
+jk_ff.cmd_log
+# ProjNav -> New Source -> TBW
+C:\Xilinx\bin\Prashant\__projnav\hb_cmds
+# Bencher Waveform : PDCL (jhdparse)
+# XST (Creating Lso File) : 
+jk_ff_edge_trigger.lso
+# Check Syntax
+jk_ff_edge_trigger.stx
+# xst flow : RunXST
+jk_ff_edge_trigger.syr
+jk_ff_edge_trigger.prj
+jk_ff_edge_trigger.sprj
+jk_ff_edge_trigger.ana
+jk_ff_edge_trigger.stx
+jk_ff_edge_trigger.cmd_log
+jk_ff_edge_trigger.ngr
+# View RTL Schematic
+jk_ff_edge_trigger.ngr
+# XST (Creating Lso File) : 
+d_latch.lso
+# Check Syntax
+d_latch.stx
+# xst flow : RunXST
+d_latch.syr
+d_latch.prj
+d_latch.sprj
+d_latch.ana
+d_latch.stx
+d_latch.cmd_log
+d_latch.ngr
+# View RTL Schematic
+d_latch.ngr
+# ModelSim : Launch ModelSim Simulator
+jk_ff_edge_trigger.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# XST (Creating Lso File) : 
+alu.lso
+# Check Syntax
+alu.stx
+# xst flow : RunXST
+alu.syr
+alu.prj
+alu.sprj
+alu.ana
+alu.stx
+alu.cmd_log
+alu.ngr
+# View RTL Schematic
+alu.ngr
+# XST (Creating Lso File) : 
+D_ff.lso
+# Check Syntax
+D_ff.stx
+# XST (Creating Lso File) : 
+D_ff.lso
+# Check Syntax
+D_ff.stx
+# XST (Creating Lso File) : 
+dff.lso
+# Check Syntax
+dff.stx
+# xst flow : RunXST
+dff.syr
+dff.prj
+dff.sprj
+dff.ana
+dff.stx
+dff.cmd_log
+dff.ngr
+# ModelSim : Launch ModelSim Simulator
+dff.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# View RTL Schematic
+dff.ngr
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# XST (Creating Lso File) : 
+dff.lso
+# Check Syntax
+dff.stx
+# XST (Creating Lso File) : 
+dff.lso
+# Check Syntax
+dff.stx
+# ModelSim : Launch ModelSim Simulator
+dff.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# XST (Creating Lso File) : 
+dff.lso
+# Check Syntax
+dff.stx
+# ModelSim : Launch ModelSim Simulator
+dff.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# XST (Creating Lso File) : 
+dff.lso
+# xst flow : RunXST
+dff.syr
+dff.prj
+dff.sprj
+dff.ana
+dff.stx
+dff.cmd_log
+dff.ngr
+# View RTL Schematic
+dff.ngr
+# XST (Creating Lso File) : 
+dff.lso
+# Check Syntax
+dff.stx
+# xst flow : RunXST
+dff.syr
+dff.prj
+dff.sprj
+dff.ana
+dff.stx
+dff.cmd_log
+dff.ngr
+# XST (Creating Lso File) : 
+dff.lso
+# Check Syntax
+dff.stx
+# xst flow : RunXST
+dff.syr
+dff.prj
+dff.sprj
+dff.ana
+dff.stx
+dff.cmd_log
+dff.ngr
+# View RTL Schematic
+dff.ngr
+# ModelSim : Launch ModelSim Simulator
+dff.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# XST (Creating Lso File) : 
+tb_dff.lso
+# Check Syntax
+tb_dff.stx
+# XST (Creating Lso File) : 
+tb_dff.lso
+# Check Syntax
+tb_dff.stx
+# XST (Creating Lso File) : 
+tb_dff.lso
+# Check Syntax
+tb_dff.stx
+# XST (Creating Lso File) : 
+tb_dff.lso
+# Check Syntax
+tb_dff.stx
+# XST (Creating Lso File) : 
+tb_dff.lso
+# Check Syntax
+tb_dff.stx
+# XST (Creating Lso File) : 
+tb_dff.lso
+# Check Syntax
+tb_dff.stx
+# Bencher Waveform : PDCL (jhdparse)
+# XST (Creating Lso File) : 
+t_ff.lso
+# Check Syntax
+t_ff.stx
+# Bencher Waveform : PDCL (jhdparse)
+# xst flow : RunXST
+t_ff.syr
+t_ff.prj
+t_ff.sprj
+t_ff.ana
+t_ff.stx
+t_ff.cmd_log
+# Bencher Waveform : PDCL (jhdparse)
+# Check Syntax
+t_ff.stx
+# Bencher Waveform : PDCL (jhdparse)
+# xst flow : RunXST
+t_ff.syr
+t_ff.prj
+t_ff.sprj
+t_ff.ana
+t_ff.stx
+t_ff.cmd_log
+# Bencher Waveform : PDCL (jhdparse)
+# XST (Creating Lso File) : 
+t_ff.lso
+# Check Syntax
+t_ff.stx
+# Bencher Waveform : PDCL (jhdparse)
+# xst flow : RunXST
+t_ff.syr
+t_ff.prj
+t_ff.sprj
+t_ff.ana
+t_ff.stx
+t_ff.cmd_log
+t_ff.ngr
+# View RTL Schematic
+t_ff.ngr
+# Bencher Waveform : PDCL (jhdparse)
+# ModelSim : Launch ModelSim Simulator
+t_ff.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# XST (Creating Lso File) : 
+ripple.lso
+# Check Syntax
+ripple.stx
+# xst flow : RunXST
+ripple.syr
+ripple.prj
+ripple.sprj
+ripple.ana
+ripple.stx
+ripple.cmd_log
+dff.ngr
+ripple.ngr
+# View RTL Schematic
+ripple.ngr
+# XST (Creating Lso File) : 
+adder.lso
+# Check Syntax
+adder.stx
+# xst flow : RunXST
+adder.syr
+adder.prj
+adder.sprj
+adder.ana
+adder.stx
+adder.cmd_log
+adder.ngr
+# View RTL Schematic
+adder.ngr
+# XST (Creating Lso File) : 
+adder.lso
+# Check Syntax
+adder.stx
+# xst flow : RunXST
+adder.syr
+adder.prj
+adder.sprj
+adder.ana
+adder.stx
+adder.cmd_log
+adder.ngr
+# View RTL Schematic
+adder.ngr
+# XST (Creating Lso File) : 
+adder.lso
+# xst flow : RunXST
+adder.syr
+adder.prj
+adder.sprj
+adder.ana
+adder.stx
+adder.cmd_log
+adder.ngr
+# View RTL Schematic
+adder.ngr
+# XST (Creating Lso File) : 
+adder.lso
+# xst flow : RunXST
+adder.syr
+adder.prj
+adder.sprj
+adder.ana
+adder.stx
+adder.cmd_log
+adder.ngr
+# View RTL Schematic
+adder.ngr
+# XST (Creating Lso File) : 
+adder.lso
+# xst flow : RunXST
+adder.syr
+adder.prj
+adder.sprj
+adder.ana
+adder.stx
+adder.cmd_log
+adder.ngr
+# XST (Creating Lso File) : 
+adder.lso
+# xst flow : RunXST
+adder.syr
+adder.prj
+adder.sprj
+adder.ana
+adder.stx
+adder.cmd_log
+adder.ngr
+# XST (Creating Lso File) : 
+adder.lso
+# xst flow : RunXST
+adder.syr
+adder.prj
+adder.sprj
+adder.ana
+adder.stx
+adder.cmd_log
+adder.ngr
+# XST (Creating Lso File) : 
+adder.lso
+# xst flow : RunXST
+adder.syr
+adder.prj
+adder.sprj
+adder.ana
+adder.stx
+adder.cmd_log
+adder.ngr
+# View RTL Schematic
+adder.ngr
+# XST (Creating Lso File) : 
+Dff_pos_clk_synch_rst.lso
+# Check Syntax
+Dff_pos_clk_synch_rst.stx
+# xst flow : RunXST
+Dff_pos_clk_synch_rst.syr
+Dff_pos_clk_synch_rst.prj
+Dff_pos_clk_synch_rst.sprj
+Dff_pos_clk_synch_rst.ana
+Dff_pos_clk_synch_rst.stx
+Dff_pos_clk_synch_rst.cmd_log
+Dff_pos_clk_synch_rst.ngr
+# View RTL Schematic
+Dff_pos_clk_synch_rst.ngr
+# XST (Creating Lso File) : 
+Dff_pos_clk_synch_rst.lso
+# Check Syntax
+Dff_pos_clk_synch_rst.stx
+# XST (Creating Lso File) : 
+Dff_pos_clk_synch_rst.lso
+# xst flow : RunXST
+Dff_pos_clk_synch_rst.syr
+Dff_pos_clk_synch_rst.prj
+Dff_pos_clk_synch_rst.sprj
+Dff_pos_clk_synch_rst.ana
+Dff_pos_clk_synch_rst.stx
+Dff_pos_clk_synch_rst.cmd_log
+Dff_pos_clk_synch_rst.ngr
+# View RTL Schematic
+Dff_pos_clk_synch_rst.ngr
+# XST (Creating Lso File) : 
+Dff_pos_clk_Asynch_rst.lso
+# xst flow : RunXST
+Dff_pos_clk_Asynch_rst.syr
+Dff_pos_clk_Asynch_rst.prj
+Dff_pos_clk_Asynch_rst.sprj
+Dff_pos_clk_Asynch_rst.ana
+Dff_pos_clk_Asynch_rst.stx
+Dff_pos_clk_Asynch_rst.cmd_log
+# XST (Creating Lso File) : 
+Dff_pos_clk_Asynch_rst.lso
+# xst flow : RunXST
+Dff_pos_clk_Asynch_rst.syr
+Dff_pos_clk_Asynch_rst.prj
+Dff_pos_clk_Asynch_rst.sprj
+Dff_pos_clk_Asynch_rst.ana
+Dff_pos_clk_Asynch_rst.stx
+Dff_pos_clk_Asynch_rst.cmd_log
+Dff_pos_clk_Asynch_rst.ngr
+# View RTL Schematic
+Dff_pos_clk_Asynch_rst.ngr
+# XST (Creating Lso File) : 
+Dff_pos_clk_Asynch_rst.lso
+# xst flow : RunXST
+Dff_pos_clk_Asynch_rst.syr
+Dff_pos_clk_Asynch_rst.prj
+Dff_pos_clk_Asynch_rst.sprj
+Dff_pos_clk_Asynch_rst.ana
+Dff_pos_clk_Asynch_rst.stx
+Dff_pos_clk_Asynch_rst.cmd_log
+Dff_pos_clk_Asynch_rst.ngr
+# XST (Creating Lso File) : 
+Dff_pos_clk_Asynch_rst.lso
+# xst flow : RunXST
+Dff_pos_clk_Asynch_rst.syr
+Dff_pos_clk_Asynch_rst.prj
+Dff_pos_clk_Asynch_rst.sprj
+Dff_pos_clk_Asynch_rst.ana
+Dff_pos_clk_Asynch_rst.stx
+Dff_pos_clk_Asynch_rst.cmd_log
+Dff_pos_clk_Asynch_rst.ngr
+# View RTL Schematic
+Dff_pos_clk_Asynch_rst.ngr
+# XST (Creating Lso File) : 
+Dff_pos_clk_Asynch_rst.lso
+# xst flow : RunXST
+Dff_pos_clk_Asynch_rst.syr
+Dff_pos_clk_Asynch_rst.prj
+Dff_pos_clk_Asynch_rst.sprj
+Dff_pos_clk_Asynch_rst.ana
+Dff_pos_clk_Asynch_rst.stx
+Dff_pos_clk_Asynch_rst.cmd_log
+Dff_pos_clk_Asynch_rst.ngr
+# View RTL Schematic
+Dff_pos_clk_Asynch_rst.ngr
+# XST (Creating Lso File) : 
+Dff_pos_clk_Asynch_rst.lso
+# xst flow : RunXST
+Dff_pos_clk_Asynch_rst.syr
+Dff_pos_clk_Asynch_rst.prj
+Dff_pos_clk_Asynch_rst.sprj
+Dff_pos_clk_Asynch_rst.ana
+Dff_pos_clk_Asynch_rst.stx
+Dff_pos_clk_Asynch_rst.cmd_log
+Dff_pos_clk_Asynch_rst.ngr
+# View RTL Schematic
+Dff_pos_clk_Asynch_rst.ngr
+# View RTL Schematic
+Dff_pos_clk_Asynch_rst.ngr
+# View RTL Schematic
+Dff_pos_clk_Asynch_rst.ngr
+# View RTL Schematic
+Dff_pos_clk_Asynch_rst.ngr
+# View RTL Schematic
+Dff_pos_clk_Asynch_rst.ngr
+# View RTL Schematic
+jk_ff_edge_trigger.ngr
+# XST (Creating Lso File) : 
+ripple.lso
+# xst flow : RunXST
+ripple.syr
+ripple.prj
+ripple.sprj
+ripple.ana
+ripple.stx
+ripple.cmd_log
+dff.ngr
+ripple.ngr
+# View RTL Schematic
+ripple.ngr
+# XST (Creating Lso File) : 
+Dff_pos_clk_synch_rst.lso
+# xst flow : RunXST
+Dff_pos_clk_synch_rst.syr
+Dff_pos_clk_synch_rst.prj
+Dff_pos_clk_synch_rst.sprj
+Dff_pos_clk_synch_rst.ana
+Dff_pos_clk_synch_rst.stx
+Dff_pos_clk_synch_rst.cmd_log
+Dff_pos_clk_synch_rst.ngr
+# View RTL Schematic
+Dff_pos_clk_synch_rst.ngr
+# XST (Creating Lso File) : 
+tb_dff.lso
+# Check Syntax
+tb_dff.stx
+# View RTL Schematic
+Dff_pos_clk_synch_rst.ngr
+# xst flow : RunXST
+tb_dff.syr
+tb_dff.prj
+tb_dff.sprj
+tb_dff.ana
+tb_dff.stx
+tb_dff.cmd_log
+Dff_pos_clk_synch_rst.ngr
+# ModelSim : Launch ModelSim Simulator
+tb_dff.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+tb_dff.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+tb_dff.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+tb_dff.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+tb_dff.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+tb_dff.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+tb_dff.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+Dff_pos_clk_synch_rst.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+tb_dff.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+tb_dff.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+tb_dff.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+tb_dff.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+tb_dff.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# XST (Creating Lso File) : 
+test.lso
+# Check Syntax
+test.stx
+test.ngc
+# ModelSim : Launch ModelSim Simulator
+test.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+test.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+test.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# XST (Creating Lso File) : 
+test.lso
+# Check Syntax
+test.stx
+test.ngc
+# xst flow : RunXST
+test.syr
+test.prj
+test.sprj
+test.ana
+test.stx
+test.cmd_log
+test.ngc
+test.ngr

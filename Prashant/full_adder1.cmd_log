@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn __projnav/full_adder1.xst -ofn full_adder1.syr

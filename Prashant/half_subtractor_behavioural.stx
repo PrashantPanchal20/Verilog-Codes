@@ -1,0 +1,19 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.22 s | Elapsed : 0.00 / 1.00 s
+ 
+--> WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Xilinx/bin/Prashant/Half_subtractor_behavioural.vhd in Library work.
+Entity <half_subtractor_behavioural> (Architecture <behavioral>) compiled.
+CPU : 0.19 / 0.41 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 93696 kilobytes
+
+

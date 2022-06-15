@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn __projnav/bcd_to_7segement_decoder.xst -ofn bcd_to_7segement_decoder.syr
+xst -intstyle ise -ifn __projnav/bcd_to_7segement_decoder.xst -ofn bcd_to_7segement_decoder.syr
+ngdbuild -intstyle ise -dd c:\xilinx\bin\prashant/_ngo -i  -p xc2s15-cs144-6 bcd_to_7segement_decoder.ngc bcd_to_7segement_decoder.ngd

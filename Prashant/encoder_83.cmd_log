@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn __projnav/encoder_83.xst -ofn encoder_83.syr

@@ -1,0 +1,1621 @@
+# XST flow : Creating project file
+or_gate.prj
+# xst flow : Check Syntax
+or_gate.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/or_gate.xst
+xst
+# xst flow : RunXST
+or_gate.prj
+__projnav/or_gate.xst
+./xst
+# xst flow : RunXST
+or_gate.prj
+__projnav/or_gate.xst
+./xst
+# XST flow : Creating project file
+case_sel.prj
+# xst flow : RunXST
+case_sel.prj
+__projnav/case_sel.xst
+./xst
+# xst flow : Check Syntax
+case_sel.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/case_sel.xst
+xst
+# XST flow : Creating project file
+case_sel.prj
+# xst flow : Check Syntax
+case_sel.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/case_sel.xst
+xst
+# xst flow : RunXST
+case_sel.prj
+__projnav/case_sel.xst
+./xst
+# XST flow : Creating project file
+half_adder.prj
+# xst flow : Check Syntax
+half_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_adder.xst
+xst
+# XST flow : Creating project file
+and1.prj
+# xst flow : Check Syntax
+and1.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/and1.xst
+xst
+# XST flow : Creating project file
+xor1.prj
+# xst flow : Check Syntax
+xor1.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/xor1.xst
+xst
+# XST flow : Creating project file
+xor1.prj
+# xst flow : Check Syntax
+xor1.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/xor1.xst
+xst
+# xst flow : RunXST
+xor1.prj
+__projnav/xor1.xst
+./xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+or1.prj
+# xst flow : Check Syntax
+or1.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/or1.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+or_1.prj
+# xst flow : Check Syntax
+or_1.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/or_1.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+or_1.prj
+# xst flow : Check Syntax
+or_1.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/or_1.xst
+xst
+# XST flow : Creating project file
+or_1.prj
+# xst flow : Check Syntax
+or_1.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/or_1.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder1.prj
+# xst flow : Check Syntax
+full_adder1.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder1.xst
+xst
+# xst flow : RunXST
+full_adder1.prj
+__projnav/full_adder1.xst
+./xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# xst flow : RunXST
+full_adder.prj
+__projnav/full_adder.xst
+./xst
+# XST flow : Creating project file
+mux_4_1_case_sel_stetement.prj
+# xst flow : Check Syntax
+mux_4_1_case_sel_stetement.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/mux_4_1_case_sel_stetement.xst
+xst
+# XST flow : Creating project file
+mux_4_1_case_sel_stetement.prj
+# xst flow : RunXST
+mux_4_1_case_sel_stetement.prj
+__projnav/mux_4_1_case_sel_stetement.xst
+./xst
+# XST flow : Creating project file
+half_adder.prj
+# xst flow : Check Syntax
+half_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_adder.xst
+xst
+# xst flow : RunXST
+full_adder.prj
+__projnav/full_adder.xst
+./xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : Check Syntax
+full_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder.xst
+xst
+# XST flow : Creating project file
+full_adder.prj
+# xst flow : RunXST
+full_adder.prj
+__projnav/full_adder.xst
+./xst
+# XST flow : Creating project file
+or_1.prj
+# xst flow : Check Syntax
+or_1.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/or_1.xst
+xst
+# XST flow : Creating project file
+or_gate.prj
+# xst flow : Check Syntax
+or_gate.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/or_gate.xst
+xst
+# XST flow : Creating project file
+8_3_encoder.prj
+# xst flow : Check Syntax
+8_3_encoder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/8_3_encoder.xst
+xst
+# XST flow : Creating project file
+8_3_encoder.prj
+# xst flow : Check Syntax
+8_3_encoder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/8_3_encoder.xst
+xst
+# XST flow : Creating project file
+8_3_encoder.prj
+# xst flow : Check Syntax
+8_3_encoder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/8_3_encoder.xst
+xst
+# XST flow : Creating project file
+8_3_encoder.prj
+# xst flow : Check Syntax
+8_3_encoder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/8_3_encoder.xst
+xst
+# XST flow : Creating project file
+8_3_encoder.prj
+# xst flow : Check Syntax
+8_3_encoder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/8_3_encoder.xst
+xst
+# XST flow : Creating project file
+8_3_encoder.prj
+# xst flow : Check Syntax
+8_3_encoder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/8_3_encoder.xst
+xst
+# XST flow : Creating project file
+8_3_encoder.prj
+# xst flow : Check Syntax
+8_3_encoder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/8_3_encoder.xst
+xst
+# XST flow : Creating project file
+8_3_encoder.prj
+# xst flow : Check Syntax
+8_3_encoder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/8_3_encoder.xst
+xst
+# XST flow : Creating project file
+8_3_encoder.prj
+# xst flow : Check Syntax
+8_3_encoder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/8_3_encoder.xst
+xst
+# XST flow : Creating project file
+encoder_83.prj
+# xst flow : Check Syntax
+encoder_83.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/encoder_83.xst
+xst
+# xst flow : RunXST
+encoder_83.prj
+__projnav/encoder_83.xst
+./xst
+# XST flow : Creating project file
+encoder_83_loop_statement.prj
+# xst flow : Check Syntax
+encoder_83_loop_statement.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/encoder_83_loop_statement.xst
+xst
+# XST flow : Creating project file
+encoder_83_loop_statement.prj
+# xst flow : Check Syntax
+encoder_83_loop_statement.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/encoder_83_loop_statement.xst
+xst
+# XST flow : Creating project file
+encoder_83_loop_statement.prj
+# xst flow : Check Syntax
+encoder_83_loop_statement.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/encoder_83_loop_statement.xst
+xst
+# XST flow : Creating project file
+encoder_83_loop_statement.prj
+# xst flow : Check Syntax
+encoder_83_loop_statement.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/encoder_83_loop_statement.xst
+xst
+# XST flow : Creating project file
+encoder_83_loop_statement.prj
+# xst flow : Check Syntax
+encoder_83_loop_statement.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/encoder_83_loop_statement.xst
+xst
+# XST flow : Creating project file
+encoder_83_loop_statement.prj
+# xst flow : Check Syntax
+encoder_83_loop_statement.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/encoder_83_loop_statement.xst
+xst
+# XST flow : Creating project file
+encoder_83_loop_statement.prj
+# xst flow : Check Syntax
+encoder_83_loop_statement.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/encoder_83_loop_statement.xst
+xst
+# XST flow : Creating project file
+multiplexer_41.prj
+# xst flow : Check Syntax
+multiplexer_41.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/multiplexer_41.xst
+xst
+# XST flow : Creating project file
+multiplexer_41.prj
+# xst flow : Check Syntax
+multiplexer_41.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/multiplexer_41.xst
+xst
+# XST flow : Creating project file
+multiplexer_41.prj
+# xst flow : Check Syntax
+multiplexer_41.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/multiplexer_41.xst
+xst
+# XST flow : Creating project file
+multiplexer_41.prj
+# xst flow : Check Syntax
+multiplexer_41.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/multiplexer_41.xst
+xst
+# XST flow : Creating project file
+multiplexer_41.prj
+# xst flow : Check Syntax
+multiplexer_41.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/multiplexer_41.xst
+xst
+# XST flow : Creating project file
+multiplexer_41.prj
+# xst flow : Check Syntax
+multiplexer_41.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/multiplexer_41.xst
+xst
+# xst flow : RunXST
+multiplexer_41.prj
+__projnav/multiplexer_41.xst
+./xst
+# XST flow : Creating project file
+mux_41_when_else.prj
+# xst flow : Check Syntax
+mux_41_when_else.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/mux_41_when_else.xst
+xst
+# XST flow : Creating project file
+mux_41_when_else.prj
+# xst flow : Check Syntax
+mux_41_when_else.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/mux_41_when_else.xst
+xst
+# XST flow : Creating project file
+mux_41_when_else.prj
+# xst flow : Check Syntax
+mux_41_when_else.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/mux_41_when_else.xst
+xst
+# XST flow : Creating project file
+mux_41_when_else.prj
+# xst flow : Check Syntax
+mux_41_when_else.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/mux_41_when_else.xst
+xst
+# XST flow : Creating project file
+mux_41_when_else.prj
+# xst flow : Check Syntax
+mux_41_when_else.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/mux_41_when_else.xst
+xst
+# XST flow : Creating project file
+mux_41_when_else.prj
+# xst flow : Check Syntax
+mux_41_when_else.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/mux_41_when_else.xst
+xst
+# XST flow : Creating project file
+mux_41_when_else.prj
+# xst flow : Check Syntax
+mux_41_when_else.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/mux_41_when_else.xst
+xst
+# XST flow : Creating project file
+mux_41_when_else.prj
+# xst flow : Check Syntax
+mux_41_when_else.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/mux_41_when_else.xst
+xst
+# XST flow : Creating project file
+mux_41_when_else.prj
+# xst flow : Check Syntax
+mux_41_when_else.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/mux_41_when_else.xst
+xst
+# xst flow : RunXST
+mux_41_when_else.prj
+__projnav/mux_41_when_else.xst
+./xst
+# XST flow : Creating project file
+encoder_83_loop_statement.prj
+# xst flow : Check Syntax
+encoder_83_loop_statement.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/encoder_83_loop_statement.xst
+xst
+# XST flow : Creating project file
+encoder_83_loop_statement.prj
+# xst flow : Check Syntax
+encoder_83_loop_statement.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/encoder_83_loop_statement.xst
+xst
+# XST flow : Creating project file
+encoder_83_loop_statement.prj
+# xst flow : Check Syntax
+encoder_83_loop_statement.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/encoder_83_loop_statement.xst
+xst
+# XST flow : Creating project file
+encoder_83_loop_statement.prj
+# xst flow : Check Syntax
+encoder_83_loop_statement.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/encoder_83_loop_statement.xst
+xst
+# XST flow : Creating project file
+encoder_83_loop_statement.prj
+# xst flow : Check Syntax
+encoder_83_loop_statement.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/encoder_83_loop_statement.xst
+xst
+# XST flow : Creating project file
+encoder_83_loop_statement.prj
+# xst flow : Check Syntax
+encoder_83_loop_statement.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/encoder_83_loop_statement.xst
+xst
+# XST flow : Creating project file
+TEST.prj
+# xst flow : RunXST
+TEST.prj
+__projnav/TEST.xst
+./xst
+# xst flow : RunXST
+TEST.prj
+__projnav/TEST.xst
+./xst
+# xst flow : RunXST
+TEST.prj
+__projnav/TEST.xst
+./xst
+# XST flow : Creating project file
+TEST.prj
+# xst flow : RunXST
+TEST.prj
+__projnav/TEST.xst
+./xst
+# xst flow : RunXST
+or_gate.prj
+__projnav/or_gate.xst
+./xst
+# XST flow : Creating project file
+bcd_to_7segement_decoder.prj
+# xst flow : Check Syntax
+bcd_to_7segement_decoder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/bcd_to_7segement_decoder.xst
+xst
+# XST flow : Creating project file
+bcd_to_7segement_decoder.prj
+# xst flow : Check Syntax
+bcd_to_7segement_decoder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/bcd_to_7segement_decoder.xst
+xst
+# XST flow : Creating project file
+bcd_to_7segement_decoder.prj
+# xst flow : Check Syntax
+bcd_to_7segement_decoder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/bcd_to_7segement_decoder.xst
+xst
+# xst flow : RunXST
+bcd_to_7segement_decoder.prj
+__projnav/bcd_to_7segement_decoder.xst
+./xst
+# xst flow : RunXST
+bcd_to_7segement_decoder.prj
+__projnav/bcd_to_7segement_decoder.xst
+./xst
+# XST flow : Creating project file
+d_flip_flop.prj
+# xst flow : Check Syntax
+d_flip_flop.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/d_flip_flop.xst
+xst
+# XST flow : Creating project file
+d_flip_flop.prj
+# xst flow : Check Syntax
+d_flip_flop.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/d_flip_flop.xst
+xst
+# XST flow : Creating project file
+d_flip_flop.prj
+# xst flow : Check Syntax
+d_flip_flop.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/d_flip_flop.xst
+xst
+# XST flow : Creating project file
+d_flip_flop.prj
+# xst flow : Check Syntax
+d_flip_flop.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/d_flip_flop.xst
+xst
+# XST flow : Creating project file
+d_flip_flop.prj
+# xst flow : Check Syntax
+d_flip_flop.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/d_flip_flop.xst
+xst
+# xst flow : RunXST
+d_flip_flop.prj
+__projnav/d_flip_flop.xst
+./xst
+# xst flow : RunXST
+d_flip_flop.prj
+__projnav/d_flip_flop.xst
+./xst
+# xst flow : Check Syntax
+d_flip_flop.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/d_flip_flop.xst
+xst
+# xst flow : RunXST
+d_flip_flop.prj
+__projnav/d_flip_flop.xst
+./xst
+# xst flow : Check Syntax
+d_flip_flop.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/d_flip_flop.xst
+xst
+# xst flow : RunXST
+d_flip_flop.prj
+__projnav/d_flip_flop.xst
+./xst
+# xst flow : Check Syntax
+d_flip_flop.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/d_flip_flop.xst
+xst
+# XST flow : Creating project file
+d_flip_flop.prj
+# xst flow : Check Syntax
+d_flip_flop.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/d_flip_flop.xst
+xst
+# xst flow : RunXST
+d_flip_flop.prj
+__projnav/d_flip_flop.xst
+./xst
+# xst flow : RunXST
+d_flip_flop.prj
+__projnav/d_flip_flop.xst
+./xst
+# XST flow : Creating project file
+full_adder_using_half_adder.prj
+# xst flow : Check Syntax
+full_adder_using_half_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder_using_half_adder.xst
+xst
+# XST flow : Creating project file
+full_adder_using_half_adder.prj
+# xst flow : Check Syntax
+full_adder_using_half_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder_using_half_adder.xst
+xst
+# XST flow : Creating project file
+full_adder_using_half_adder.prj
+# xst flow : Check Syntax
+full_adder_using_half_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder_using_half_adder.xst
+xst
+# XST flow : Creating project file
+full_adder_using_half_adder.prj
+# xst flow : Check Syntax
+full_adder_using_half_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder_using_half_adder.xst
+xst
+# XST flow : Creating project file
+full_adder_using_half_adder.prj
+# xst flow : Check Syntax
+full_adder_using_half_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder_using_half_adder.xst
+xst
+# XST flow : Creating project file
+full_adder_using_half_adder.prj
+# xst flow : Check Syntax
+full_adder_using_half_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder_using_half_adder.xst
+xst
+# XST flow : Creating project file
+full_adder_using_half_adder.prj
+# xst flow : Check Syntax
+full_adder_using_half_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder_using_half_adder.xst
+xst
+# XST flow : Creating project file
+full_adder_using_half_adder.prj
+# xst flow : Check Syntax
+full_adder_using_half_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder_using_half_adder.xst
+xst
+# XST flow : Creating project file
+half_adder.prj
+# xst flow : Check Syntax
+half_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_adder.xst
+xst
+# xst flow : RunXST
+half_adder.prj
+__projnav/half_adder.xst
+./xst
+# XST flow : Creating project file
+full_adder_using_half_adder.prj
+# xst flow : Check Syntax
+full_adder_using_half_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder_using_half_adder.xst
+xst
+# XST flow : Creating project file
+full_adder_using_half_adder.prj
+# xst flow : Check Syntax
+full_adder_using_half_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder_using_half_adder.xst
+xst
+# XST flow : Creating project file
+full_adder_using_half_adder.prj
+# xst flow : Check Syntax
+full_adder_using_half_adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/full_adder_using_half_adder.xst
+xst
+# XST flow : Creating project file
+encoder_83_loop_statement.prj
+# xst flow : Check Syntax
+encoder_83_loop_statement.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/encoder_83_loop_statement.xst
+xst
+# XST flow : Creating project file
+encoder_83_loop_statement.prj
+# xst flow : Check Syntax
+encoder_83_loop_statement.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/encoder_83_loop_statement.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# xst flow : RunXST
+half_subtractor_behavioural.prj
+__projnav/half_subtractor_behavioural.xst
+./xst
+# XST flow : Creating project file
+half_subtractor1.prj
+# xst flow : Check Syntax
+half_subtractor1.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor1.xst
+xst
+# xst flow : RunXST
+half_subtractor1.prj
+__projnav/half_subtractor1.xst
+./xst
+# XST flow : Creating project file
+half_subtractor1.prj
+# xst flow : Check Syntax
+half_subtractor1.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor1.xst
+xst
+# XST flow : Creating project file
+half_subtractor1.prj
+# xst flow : Check Syntax
+half_subtractor1.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor1.xst
+xst
+# xst flow : RunXST
+half_subtractor1.prj
+__projnav/half_subtractor1.xst
+./xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# XST flow : Creating project file
+half_subtractor_behavioural.prj
+# xst flow : Check Syntax
+half_subtractor_behavioural.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/half_subtractor_behavioural.xst
+xst
+# xst flow : RunXST
+half_subtractor_behavioural.prj
+__projnav/half_subtractor_behavioural.xst
+./xst
+# xst flow : RunXST
+d_flip_flop.prj
+__projnav/d_flip_flop.xst
+./xst
+# xst flow : Check Syntax
+d_flip_flop.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/d_flip_flop.xst
+xst
+# xst flow : RunXST
+d_flip_flop.prj
+__projnav/d_flip_flop.xst
+./xst
+# xst flow : Check Syntax
+d_flip_flop.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/d_flip_flop.xst
+xst
+# XST flow : Creating project file
+TEST.prj
+# xst flow : Check Syntax
+TEST.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/TEST.xst
+xst
+# xst flow : RunXST
+TEST.prj
+__projnav/TEST.xst
+./xst
+# XST flow : Creating project file
+and_gate.prj
+# xst flow : Check Syntax
+and_gate.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/and_gate.xst
+xst
+# xst flow : RunXST
+and_gate.prj
+__projnav/and_gate.xst
+./xst
+# XST flow : Creating project file
+and_gate.prj
+# xst flow : Check Syntax
+and_gate.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/and_gate.xst
+xst
+# xst flow : RunXST
+and_gate.prj
+__projnav/and_gate.xst
+./xst
+# XST flow : Creating project file
+xor_gate.prj
+# xst flow : Check Syntax
+xor_gate.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/xor_gate.xst
+xst
+# xst flow : RunXST
+xor_gate.prj
+__projnav/xor_gate.xst
+./xst
+# XST flow : Creating project file
+adder.prj
+# xst flow : Check Syntax
+adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/adder.xst
+xst
+# xst flow : RunXST
+adder.prj
+__projnav/adder.xst
+./xst
+# XST flow : Creating project file
+adder.prj
+# xst flow : Check Syntax
+adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/adder.xst
+xst
+# XST flow : Creating project file
+adder.prj
+# xst flow : Check Syntax
+adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/adder.xst
+xst
+# XST flow : Creating project file
+adder.prj
+# xst flow : RunXST
+adder.prj
+__projnav/adder.xst
+./xst
+# XST flow : Creating project file
+jk_ff.prj
+# xst flow : Check Syntax
+jk_ff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/jk_ff.xst
+xst
+# XST flow : Creating project file
+jk_ff.prj
+# xst flow : Check Syntax
+jk_ff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/jk_ff.xst
+xst
+# XST flow : Creating project file
+and_gate.prj
+# xst flow : Check Syntax
+and_gate.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/and_gate.xst
+xst
+# xst flow : RunXST
+and_gate.prj
+__projnav/and_gate.xst
+./xst
+# XST flow : Creating project file
+jk_ff.prj
+# xst flow : Check Syntax
+jk_ff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/jk_ff.xst
+xst
+# XST flow : Creating project file
+jk_ff.prj
+# xst flow : Check Syntax
+jk_ff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/jk_ff.xst
+xst
+# XST flow : Creating project file
+jk_ff.prj
+# xst flow : Check Syntax
+jk_ff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/jk_ff.xst
+xst
+# xst flow : RunXST
+jk_ff.prj
+__projnav/jk_ff.xst
+./xst
+# XST flow : Creating project file
+jk_ff.prj
+# xst flow : Check Syntax
+jk_ff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/jk_ff.xst
+xst
+# xst flow : RunXST
+jk_ff.prj
+__projnav/jk_ff.xst
+./xst
+# xst flow : RunXST
+jk_ff.prj
+__projnav/jk_ff.xst
+./xst
+# XST flow : Creating project file
+jk_ff_edge_trigger.prj
+# xst flow : Check Syntax
+jk_ff_edge_trigger.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/jk_ff_edge_trigger.xst
+xst
+# xst flow : RunXST
+jk_ff_edge_trigger.prj
+__projnav/jk_ff_edge_trigger.xst
+./xst
+# XST flow : Creating project file
+d_latch.prj
+# xst flow : Check Syntax
+d_latch.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/d_latch.xst
+xst
+# xst flow : RunXST
+d_latch.prj
+__projnav/d_latch.xst
+./xst
+# XST flow : Creating project file
+alu.prj
+# xst flow : Check Syntax
+alu.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/alu.xst
+xst
+# xst flow : RunXST
+alu.prj
+__projnav/alu.xst
+./xst
+# XST flow : Creating project file
+D_ff.prj
+# xst flow : Check Syntax
+D_ff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/D_ff.xst
+xst
+# XST flow : Creating project file
+D_ff.prj
+# xst flow : Check Syntax
+D_ff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/D_ff.xst
+xst
+# XST flow : Creating project file
+dff.prj
+# xst flow : Check Syntax
+dff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/dff.xst
+xst
+# xst flow : RunXST
+dff.prj
+__projnav/dff.xst
+./xst
+# XST flow : Creating project file
+dff.prj
+# xst flow : Check Syntax
+dff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/dff.xst
+xst
+# XST flow : Creating project file
+dff.prj
+# xst flow : Check Syntax
+dff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/dff.xst
+xst
+# XST flow : Creating project file
+dff.prj
+# xst flow : Check Syntax
+dff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/dff.xst
+xst
+# XST flow : Creating project file
+dff.prj
+# xst flow : RunXST
+dff.prj
+__projnav/dff.xst
+./xst
+# XST flow : Creating project file
+dff.prj
+# xst flow : Check Syntax
+dff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/dff.xst
+xst
+# xst flow : RunXST
+dff.prj
+__projnav/dff.xst
+./xst
+# XST flow : Creating project file
+dff.prj
+# xst flow : Check Syntax
+dff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/dff.xst
+xst
+# xst flow : RunXST
+dff.prj
+__projnav/dff.xst
+./xst
+# XST flow : Creating project file
+tb_dff.prj
+# xst flow : Check Syntax
+tb_dff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/tb_dff.xst
+xst
+# XST flow : Creating project file
+tb_dff.prj
+# xst flow : Check Syntax
+tb_dff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/tb_dff.xst
+xst
+# XST flow : Creating project file
+tb_dff.prj
+# xst flow : Check Syntax
+tb_dff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/tb_dff.xst
+xst
+# XST flow : Creating project file
+tb_dff.prj
+# xst flow : Check Syntax
+tb_dff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/tb_dff.xst
+xst
+# XST flow : Creating project file
+tb_dff.prj
+# xst flow : Check Syntax
+tb_dff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/tb_dff.xst
+xst
+# XST flow : Creating project file
+tb_dff.prj
+# xst flow : Check Syntax
+tb_dff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/tb_dff.xst
+xst
+# XST flow : Creating project file
+t_ff.prj
+# xst flow : Check Syntax
+t_ff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/t_ff.xst
+xst
+# xst flow : RunXST
+t_ff.prj
+__projnav/t_ff.xst
+./xst
+# xst flow : Check Syntax
+t_ff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/t_ff.xst
+xst
+# xst flow : RunXST
+t_ff.prj
+__projnav/t_ff.xst
+./xst
+# XST flow : Creating project file
+t_ff.prj
+# xst flow : Check Syntax
+t_ff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/t_ff.xst
+xst
+# xst flow : RunXST
+t_ff.prj
+__projnav/t_ff.xst
+./xst
+# XST flow : Creating project file
+ripple.prj
+# xst flow : Check Syntax
+ripple.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/ripple.xst
+xst
+# xst flow : RunXST
+ripple.prj
+__projnav/ripple.xst
+./xst
+# XST flow : Creating project file
+adder.prj
+# xst flow : Check Syntax
+adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/adder.xst
+xst
+# xst flow : RunXST
+adder.prj
+__projnav/adder.xst
+./xst
+# XST flow : Creating project file
+adder.prj
+# xst flow : Check Syntax
+adder.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/adder.xst
+xst
+# xst flow : RunXST
+adder.prj
+__projnav/adder.xst
+./xst
+# XST flow : Creating project file
+adder.prj
+# xst flow : RunXST
+adder.prj
+__projnav/adder.xst
+./xst
+# XST flow : Creating project file
+adder.prj
+# xst flow : RunXST
+adder.prj
+__projnav/adder.xst
+./xst
+# XST flow : Creating project file
+adder.prj
+# xst flow : RunXST
+adder.prj
+__projnav/adder.xst
+./xst
+# XST flow : Creating project file
+adder.prj
+# xst flow : RunXST
+adder.prj
+__projnav/adder.xst
+./xst
+# XST flow : Creating project file
+adder.prj
+# xst flow : RunXST
+adder.prj
+__projnav/adder.xst
+./xst
+# XST flow : Creating project file
+adder.prj
+# xst flow : RunXST
+adder.prj
+__projnav/adder.xst
+./xst
+# XST flow : Creating project file
+Dff_pos_clk_synch_rst.prj
+# xst flow : Check Syntax
+Dff_pos_clk_synch_rst.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/Dff_pos_clk_synch_rst.xst
+xst
+# xst flow : RunXST
+Dff_pos_clk_synch_rst.prj
+__projnav/Dff_pos_clk_synch_rst.xst
+./xst
+# XST flow : Creating project file
+Dff_pos_clk_synch_rst.prj
+# xst flow : Check Syntax
+Dff_pos_clk_synch_rst.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/Dff_pos_clk_synch_rst.xst
+xst
+# XST flow : Creating project file
+Dff_pos_clk_synch_rst.prj
+# xst flow : RunXST
+Dff_pos_clk_synch_rst.prj
+__projnav/Dff_pos_clk_synch_rst.xst
+./xst
+# XST flow : Creating project file
+Dff_pos_clk_Asynch_rst.prj
+# xst flow : RunXST
+Dff_pos_clk_Asynch_rst.prj
+__projnav/Dff_pos_clk_Asynch_rst.xst
+./xst
+# XST flow : Creating project file
+Dff_pos_clk_Asynch_rst.prj
+# xst flow : RunXST
+Dff_pos_clk_Asynch_rst.prj
+__projnav/Dff_pos_clk_Asynch_rst.xst
+./xst
+# XST flow : Creating project file
+Dff_pos_clk_Asynch_rst.prj
+# xst flow : RunXST
+Dff_pos_clk_Asynch_rst.prj
+__projnav/Dff_pos_clk_Asynch_rst.xst
+./xst
+# XST flow : Creating project file
+Dff_pos_clk_Asynch_rst.prj
+# xst flow : RunXST
+Dff_pos_clk_Asynch_rst.prj
+__projnav/Dff_pos_clk_Asynch_rst.xst
+./xst
+# XST flow : Creating project file
+Dff_pos_clk_Asynch_rst.prj
+# xst flow : RunXST
+Dff_pos_clk_Asynch_rst.prj
+__projnav/Dff_pos_clk_Asynch_rst.xst
+./xst
+# XST flow : Creating project file
+Dff_pos_clk_Asynch_rst.prj
+# xst flow : RunXST
+Dff_pos_clk_Asynch_rst.prj
+__projnav/Dff_pos_clk_Asynch_rst.xst
+./xst
+# XST flow : Creating project file
+ripple.prj
+# xst flow : RunXST
+ripple.prj
+__projnav/ripple.xst
+./xst
+# XST flow : Creating project file
+Dff_pos_clk_synch_rst.prj
+# xst flow : RunXST
+Dff_pos_clk_synch_rst.prj
+__projnav/Dff_pos_clk_synch_rst.xst
+./xst
+# XST flow : Creating project file
+tb_dff.prj
+# xst flow : Check Syntax
+tb_dff.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/tb_dff.xst
+xst
+# xst flow : RunXST
+tb_dff.prj
+__projnav/tb_dff.xst
+./xst
+# XST flow : Creating project file
+test.prj
+# xst flow : Check Syntax
+test.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/test.xst
+xst
+# XST flow : Creating project file
+test.prj
+# xst flow : Check Syntax
+test.sprj
+__projnav/xst_sprjTOstx_tcl.rsp
+__projnav/test.xst
+xst
+# xst flow : RunXST
+test.prj
+__projnav/test.xst
+./xst

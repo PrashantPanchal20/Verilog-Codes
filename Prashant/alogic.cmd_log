@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn __projnav/alogic.xst -ofn alogic.syr

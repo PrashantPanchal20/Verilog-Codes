@@ -1,0 +1,4 @@
+Mapping Module mux_4_1_case_sel_stetement . . .
+MAP command line:
+map -intstyle ise -p xc2s15-cs144-6 -cm area -pr b -k 4 -c 100 -tx off -o mux_4_1_case_sel_stetement_map.ncd mux_4_1_case_sel_stetement.ngd mux_4_1_case_sel_stetement.pcf
+Mapping Module mux_4_1_case_sel_stetement: DONE

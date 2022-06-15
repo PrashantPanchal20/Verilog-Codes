@@ -1,0 +1,19 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.14 s | Elapsed : 0.00 / 0.00 s
+ 
+--> WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Xilinx/bin/Prashant/Mux_4_1_case_select_stetement.vhd in Library work.
+Entity <Case_sel> (Architecture <Behavioral>) compiled.
+CPU : 0.13 / 0.26 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+
+Total memory usage is 93760 kilobytes
+
+

@@ -1,0 +1,19 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 2.41 s | Elapsed : 0.00 / 2.00 s
+ 
+--> WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Xilinx/bin/Prashant/or_gate.vhd in Library work.
+Entity <or_gate> (Architecture <Dataflow_modling>) compiled.
+CPU : 0.54 / 2.94 s | Elapsed : 1.00 / 3.00 s
+ 
+--> 
+
+Total memory usage is 101888 kilobytes
+
+

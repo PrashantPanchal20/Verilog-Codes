@@ -1,0 +1,22 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 3.78 s | Elapsed : 0.00 / 4.00 s
+ 
+--> WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling source file "Round_Robin_Project.v"
+Module <Round_Robin_Project> compiled
+No errors in compilation
+Analysis of file <Round_Robin_Project.prj> succeeded.
+ 
+CPU : 0.17 / 3.95 s | Elapsed : 0.00 / 4.00 s
+ 
+--> 
+
+Total memory usage is 100968 kilobytes
+
+

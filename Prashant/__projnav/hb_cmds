@@ -1,0 +1,5 @@
+-proj c:\xilinx\bin\prashant
+-t h_a_tb.tbw
+-source h_a.v
+-entity h_a
+-ipcport 54850

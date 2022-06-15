@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn __projnav/ripple.xst -ofn ripple.syr
+xst -intstyle ise -ifn __projnav/ripple.xst -ofn ripple.syr

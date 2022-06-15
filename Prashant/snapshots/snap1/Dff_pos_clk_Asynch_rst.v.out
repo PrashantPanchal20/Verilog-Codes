@@ -1,0 +1,45 @@
+#! /c/Source/iverilog-install/bin/vvp
+:ivl_version "12.0 (devel)" "(s20150603-1110-g18392a46)";
+:ivl_delay_selection "TYPICAL";
+:vpi_time_precision + 0;
+:vpi_module "C:\iverilog\lib\ivl\system.vpi";
+:vpi_module "C:\iverilog\lib\ivl\vhdl_sys.vpi";
+:vpi_module "C:\iverilog\lib\ivl\vhdl_textio.vpi";
+:vpi_module "C:\iverilog\lib\ivl\v2005_math.vpi";
+:vpi_module "C:\iverilog\lib\ivl\va_math.vpi";
+S_000001dfd2912e10 .scope module, "Dff_pos_clk_Asynch_rst" "Dff_pos_clk_Asynch_rst" 2 54;
+ .timescale 0 0;
+    .port_info 0 /INPUT 1 "D";
+    .port_info 1 /INPUT 1 "clk";
+    .port_info 2 /INPUT 1 "asynk_reset";
+    .port_info 3 /OUTPUT 1 "Q";
+o000001dfd2946fd8 .functor BUFZ 1, C4<z>; HiZ drive
+v000001dfd2912fa0_0 .net "D", 0 0, o000001dfd2946fd8;  0 drivers
+v000001dfd2913040_0 .var "Q", 0 0;
+o000001dfd2947038 .functor BUFZ 1, C4<z>; HiZ drive
+v000001dfd29130e0_0 .net "asynk_reset", 0 0, o000001dfd2947038;  0 drivers
+o000001dfd2947068 .functor BUFZ 1, C4<z>; HiZ drive
+v000001dfd28fdd90_0 .net "clk", 0 0, o000001dfd2947068;  0 drivers
+E_000001dfd2945690/0 .event negedge, v000001dfd28fdd90_0;
+E_000001dfd2945690/1 .event posedge, v000001dfd29130e0_0;
+E_000001dfd2945690 .event/or E_000001dfd2945690/0, E_000001dfd2945690/1;
+    .scope S_000001dfd2912e10;
+T_0 ;
+    %wait E_000001dfd2945690;
+    %load/vec4 v000001dfd29130e0_0;
+    %cmpi/e 1, 0, 1;
+    %jmp/0xz  T_0.0, 4;
+    %pushi/vec4 0, 0, 1;
+    %assign/vec4 v000001dfd2913040_0, 0;
+    %jmp T_0.1;
+T_0.0 ;
+    %load/vec4 v000001dfd2912fa0_0;
+    %assign/vec4 v000001dfd2913040_0, 0;
+T_0.1 ;
+    %jmp T_0;
+    .thread T_0;
+# The file index is used to find the file name in the following table.
+:file_names 3;
+    "N/A";
+    "<interactive>";
+    "Dff_pos_clk_Asynch_rst.v";

@@ -1,0 +1,26 @@
+Release  - ngdbuild G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+
+Command Line: ngdbuild -intstyle ise -dd c:\xilinx\bin\prashant/_ngo -i -p
+xc2s15-cs144-6 TEST.ngc TEST.ngd 
+
+Reading NGO file "C:/Xilinx/bin/Prashant/TEST.ngc" ...
+Reading component libraries for design expansion...
+Loading design module "C:\Xilinx\bin\Prashant/TEST.ngc"...
+WARNING:NgdBuild:578 - Design contains no instances.
+
+Checking timing specifications ...
+Checking expanded design ...
+ERROR:NgdBuild:605 - logical root block 'TEST' with type 'TEST' is unexpanded.
+   Symbol 'TEST' is not supported in target 'spartan2'.
+
+NGDBUILD Design Results Summary:
+  Number of errors:     1
+  Number of warnings:   0
+
+Total memory usage is 74356 kilobytes
+
+
+One or more errors were found during NGDBUILD.  No NGD file will be written.
+
+Writing NGDBUILD log file "TEST.bld"...

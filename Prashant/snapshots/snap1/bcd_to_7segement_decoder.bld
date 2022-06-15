@@ -1,0 +1,21 @@
+Release  - ngdbuild G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+
+Command Line: ngdbuild -intstyle ise -dd c:\xilinx\bin\prashant/_ngo -i -p
+xc2s15-cs144-6 bcd_to_7segement_decoder.ngc bcd_to_7segement_decoder.ngd 
+
+Reading NGO file "C:/Xilinx/bin/Prashant/bcd_to_7segement_decoder.ngc" ...
+Reading component libraries for design expansion...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 74356 kilobytes
+
+Writing NGD file "bcd_to_7segement_decoder.ngd" ...
+
+Writing NGDBUILD log file "bcd_to_7segement_decoder.bld"...

@@ -1,0 +1,27 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.57 s | Elapsed : 0.00 / 0.00 s
+ 
+--> WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Xilinx/bin/Prashant/xor1.vhd in Library work.
+Architecture behavioral of Entity xor1 is up to date.
+Compiling vhdl file C:/Xilinx/bin/Prashant/and1.vhd in Library work.
+Architecture behavioral of Entity and1 is up to date.
+Compiling vhdl file C:/Xilinx/bin/Prashant/Half_Adder.vhd in Library work.
+Architecture structural of Entity half_adder is up to date.
+Compiling vhdl file C:/Xilinx/bin/Prashant/or_gate.vhd in Library work.
+Architecture dataflow_modling of Entity or_gate is up to date.
+Compiling vhdl file C:/Xilinx/bin/Prashant/Full_adder_using_half_adder.vhd in Library work.
+ERROR:HDLParsers:164 - C:/Xilinx/bin/Prashant/Full_adder_using_half_adder.vhd Line 18. parse error, unexpected SELECT
+CPU : 1.27 / 1.85 s | Elapsed : 2.00 / 2.00 s
+ 
+--> 
+
+Total memory usage is 93760 kilobytes
+
+

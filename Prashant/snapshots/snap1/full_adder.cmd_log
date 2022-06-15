@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn __projnav/full_adder.xst -ofn full_adder.syr
+xst -intstyle ise -ifn __projnav/full_adder.xst -ofn full_adder.syr
+ngdbuild -intstyle ise -dd c:\xilinx\bin\prashant/_ngo -i  -p xc2s15-cs144-6 full_adder.ngc full_adder.ngd
+netgen -intstyle ise -rpw 100 -tpw 0 -ar Structure -xon true -w -ofmt vhdl -sim full_adder.ngd full_adder_translate.vhd
+xst -intstyle ise -ifn __projnav/full_adder.xst -ofn full_adder.syr

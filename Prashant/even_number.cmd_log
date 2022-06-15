@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn __projnav/even_number.xst -ofn even_number.syr

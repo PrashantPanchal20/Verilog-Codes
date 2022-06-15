@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn __projnav/tb_dff.xst -ofn tb_dff.syr

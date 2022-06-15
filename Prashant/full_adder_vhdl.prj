@@ -1,0 +1,5 @@
+work xor1.vhd
+work and1.vhd
+work Half_Adder.vhd
+work or_1.vhd
+work Full_Adder.vhd

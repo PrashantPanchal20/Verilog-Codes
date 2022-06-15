@@ -1,0 +1,29 @@
+# Reading C:/Modeltech_5.4a/win32/../tcl/vsim/pref.tcl 
+# do h_a.ldo 
+# Model Technology ModelSim SE/EE vlog 5.4a Compiler 2000.04 Apr 17 2000
+# -- Compiling module h_a
+# Top level modules:
+# 	h_a
+# Model Technology ModelSim SE/EE vlog 5.4a Compiler 2000.04 Apr 17 2000
+# -- Compiling module glbl
+# Top level modules:
+# 	glbl
+# vsim +maxdelays -t 1ps -L xilinxcorelib_ver -L unisims_ver h_a glbl 
+# Loading work.h_a
+# Loading work.glbl
+# WARNING: [TSCALE] - Module 'glbl' has a `timescale directive in effect, but previous modules do not
+#        Region: /glbl
+# .wave
+# .structure
+# .signals
+force -freeze /h_a/a 0 0
+force -freeze /h_a/b 1 0
+run
+force -freeze /h_a/a 1 0
+run
+run -all
+run -all
+# Break key hit 
+force -freeze /h_a/b 0 0
+run -continue
+# Macro Break

@@ -1,0 +1,227 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to __projnav
+CPU : 0.00 / 0.14 s | Elapsed : 0.00 / 0.00 s
+ 
+--> Parameter xsthdpdir set to ./xst
+CPU : 0.00 / 0.14 s | Elapsed : 0.00 / 0.00 s
+ 
+--> Reading design: mux_4_1_case_sel_stetement.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Compilation
+  3) HDL Analysis
+  4) HDL Synthesis
+     4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+  6) Low Level Synthesis
+  7) Final Report
+     7.1) Device utilization summary
+     7.2) TIMING REPORT
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : mux_4_1_case_sel_stetement.prj
+Input Format                       : mixed
+Ignore Synthesis Constraint File   : NO
+Verilog Include Directory          : 
+
+---- Target Parameters
+Output File Name                   : mux_4_1_case_sel_stetement
+Output Format                      : NGC
+Target Device                      : xc2s15-6-cs144
+
+---- Source Options
+Top Module Name                    : mux_4_1_case_sel_stetement
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+FSM Style                          : lut
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+ROM Style                          : Auto
+Mux Extraction                     : YES
+Mux Style                          : Auto
+Decoder Extraction                 : YES
+Priority Encoder Extraction        : YES
+Shift Register Extraction          : YES
+Logical Shifter Extraction         : YES
+XOR Collapsing                     : YES
+Resource Sharing                   : YES
+Multiplier Style                   : lut
+Automatic Register Balancing       : No
+
+---- Target Options
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 100
+Add Generic Clock Buffer(BUFG)     : 4
+Register Duplication               : YES
+Equivalent register Removal        : YES
+Slice Packing                      : YES
+Pack IO Registers into IOBs        : auto
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Keep Hierarchy                     : NO
+Global Optimization                : AllClockNets
+RTL Output                         : Yes
+Write Timing Constraints           : NO
+Hierarchy Separator                : _
+Bus Delimiter                      : <>
+Case Specifier                     : maintain
+Slice Utilization Ratio            : 100
+Slice Utilization Ratio Delta      : 5
+
+---- Other Options
+lso                                : mux_4_1_case_sel_stetement.lso
+Read Cores                         : YES
+cross_clock_analysis               : NO
+verilog2001                        : YES
+Optimize Instantiated Primitives   : NO
+
+=========================================================================
+
+WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file C:/Xilinx/bin/Prashant/MUX_4_1_case_sel_stetement.vhd in Library work.
+Entity <MUX_4_1_case_sel_stetement> (Architecture <Behavioral>) compiled.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <mux_4_1_case_sel_stetement> (Architecture <Behavioral>).
+INFO:Xst:1561 - C:/Xilinx/bin/Prashant/MUX_4_1_case_sel_stetement.vhd line 26: Mux is complete : default of case is discarded
+Entity <mux_4_1_case_sel_stetement> analyzed. Unit <mux_4_1_case_sel_stetement> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <mux_4_1_case_sel_stetement>.
+    Related source file is C:/Xilinx/bin/Prashant/MUX_4_1_case_sel_stetement.vhd.
+    Found 1-bit 4-to-1 multiplexer for signal <y>.
+    Summary:
+	inferred   1 Multiplexer(s).
+Unit <mux_4_1_case_sel_stetement> synthesized.
+
+
+=========================================================================
+HDL Synthesis Report
+
+Macro Statistics
+# Multiplexers                     : 1
+  1-bit 4-to-1 multiplexer         : 1
+
+=========================================================================
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <mux_4_1_case_sel_stetement> ...
+Loading device for application Xst from file '2s15.nph' in environment C:/Xilinx.
+
+Mapping all equations...
+Building and optimizing final netlist ...
+Found area constraint ratio of 100 (+ 5) on block mux_4_1_case_sel_stetement, actual ratio is 0.
+
+=========================================================================
+*                            Final Report                               *
+=========================================================================
+Final Results
+RTL Top Level Output File Name     : mux_4_1_case_sel_stetement.ngr
+Top Level Output File Name         : mux_4_1_case_sel_stetement
+Output Format                      : NGC
+Optimization Goal                  : Speed
+Keep Hierarchy                     : NO
+
+Design Statistics
+# IOs                              : 7
+
+Macro Statistics :
+# Multiplexers                     : 1
+#      1-bit 4-to-1 multiplexer    : 1
+
+Cell Usage :
+# BELS                             : 3
+#      LUT3                        : 2
+#      MUXF5                       : 1
+# IO Buffers                       : 7
+#      IBUF                        : 6
+#      OBUF                        : 1
+=========================================================================
+
+Device utilization summary:
+---------------------------
+
+Selected Device : 2s15cs144-6 
+
+ Number of Slices:                       1  out of    192     0%  
+ Number of 4 input LUTs:                 2  out of    384     0%  
+ Number of bonded IOBs:                  7  out of     90     7%  
+
+
+=========================================================================
+TIMING REPORT
+
+NOTE: THESE TIMING NUMBERS ARE ONLY A SYNTHESIS ESTIMATE.
+      FOR ACCURATE TIMING INFORMATION PLEASE REFER TO THE TRACE REPORT
+      GENERATED AFTER PLACE-and-ROUTE.
+
+Clock Information:
+------------------
+No clock signals found in this design
+
+Timing Summary:
+---------------
+Speed Grade: -6
+
+   Minimum period: No path found
+   Minimum input arrival time before clock: No path found
+   Maximum output required time after clock: No path found
+   Maximum combinational path delay: 8.549ns
+
+Timing Detail:
+--------------
+All values displayed in nanoseconds (ns)
+
+-------------------------------------------------------------------------
+Timing constraint: Default path analysis
+Delay:               8.549ns (Levels of Logic = 4)
+  Source:            sel<0> (PAD)
+  Destination:       y (PAD)
+
+  Data Path: sel<0> to y
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O             2   0.776   1.206  sel_0_IBUF (sel_0_IBUF)
+     LUT3:I0->O            1   0.549   0.000  Mmux_y_inst_lut3_01 (Mmux_y__net0)
+     MUXF5:I0->O           1   0.315   1.035  Mmux_y_inst_mux_f5_0 (y_OBUF)
+     OBUF:I->O                 4.668          y_OBUF (y)
+    ----------------------------------------
+    Total                      8.549ns (6.308ns logic, 2.241ns route)
+                                       (73.8% logic, 26.2% route)
+
+=========================================================================
+CPU : 0.98 / 1.26 s | Elapsed : 1.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 100140 kilobytes
+
+

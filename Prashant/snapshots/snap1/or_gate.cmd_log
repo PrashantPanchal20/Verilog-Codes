@@ -1,0 +1,8 @@
+xst -intstyle ise -ifn __projnav/or_gate.xst -ofn or_gate.syr
+xst -intstyle ise -ifn __projnav/or_gate.xst -ofn or_gate.syr
+ngdbuild -intstyle ise -dd c:\xilinx\bin\prashant/_ngo -i  -p xc2s15-cs144-6 or_gate.ngc or_gate.ngd
+netgen -intstyle ise -rpw 100 -tpw 0 -ar Structure -xon true -w -ofmt vhdl -sim or_gate.ngd or_gate_translate.vhd
+xst -intstyle ise -ifn __projnav/or_gate.xst -ofn or_gate.syr
+ngdbuild -intstyle ise -dd c:\xilinx\bin\prashant/_ngo -i  -p xc2s15-cs144-6 or_gate.ngc or_gate.ngd
+netgen -intstyle ise -rpw 100 -tpw 0 -ar Structure -xon true -w -ofmt vhdl -sim or_gate.ngd or_gate_translate.vhd
+ngdbuild -intstyle ise -dd c:\xilinx\bin\prashant/_ngo -uc or_gate.ucf  -p xc2s15-cs144-6 or_gate.ngc or_gate.ngd

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn __projnav/shift_resister.xst -ofn shift_resister.syr

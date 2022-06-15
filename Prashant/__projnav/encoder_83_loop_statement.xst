@@ -1,0 +1,4 @@
+set -tmpdir .
+elaborate
+-ifn encoder_83_loop_statement.prj
+-ifmt mixed

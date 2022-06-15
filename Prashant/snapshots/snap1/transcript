@@ -1,0 +1,27 @@
+# Reading C:/Modeltech_5.4a/win32/../tcl/vsim/pref.tcl 
+# do test.ldo 
+# Model Technology ModelSim SE/EE vlog 5.4a Compiler 2000.04 Apr 17 2000
+# -- Compiling module test
+# Top level modules:
+# 	test
+# Model Technology ModelSim SE/EE vlog 5.4a Compiler 2000.04 Apr 17 2000
+# -- Compiling module glbl
+# Top level modules:
+# 	glbl
+# vsim +maxdelays -t 1ps -L xilinxcorelib_ver -L unisims_ver test glbl 
+# Loading work.test
+# Loading work.glbl
+# WARNING: [TSCALE] - Module 'glbl' has a `timescale directive in effect, but previous modules do not
+#        Region: /glbl
+# .wave
+# ERROR: No objects found matching "*"
+# Error in macro ./test.ldo line 10
+# No objects found matching "*"
+#     while executing
+# "add wave *"
+run
+# This end with a new line
+# This does notlike this . To start new line , use new line charThis always start on a new line!
+run
+run
+destroy .wave

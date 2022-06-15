@@ -1,0 +1,126 @@
+-- C:\XILINX\BIN\PRASHANT
+-- VHDL Annotation Test Bench created by
+-- HDL Bencher 6.1i
+-- Sun May 15 18:58:11 2022
+
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_TEXTIO.ALL;
+USE STD.TEXTIO.ALL;
+
+ENTITY h_a_tb IS
+END h_a_tb;
+
+ARCHITECTURE testbench_arch OF h_a_tb IS
+-- If you get a compiler error on the following line,
+-- from the menu do Options->Configuration select VHDL 87
+FILE RESULTS: TEXT OPEN WRITE_MODE IS "c:\xilinx\bin\prashant\h_a_tb.ano";
+	COMPONENT h_a
+		PORT (
+			a : In  bit;
+			b : In  bit;
+			s : Out  bit;
+			c : Out  bit
+		);
+	END COMPONENT;
+
+	SIGNAL a : bit;
+	SIGNAL b : bit;
+	SIGNAL s : bit;
+	SIGNAL c : bit;
+
+BEGIN
+	UUT : h_a
+	PORT MAP (
+		a => a,
+		b => b,
+		s => s,
+		c => c
+	);
+
+	PROCESS -- clock process for b,
+		VARIABLE TX_TIME : INTEGER :=0;
+
+		PROCEDURE ANNOTATE_s(
+			TX_TIME : INTEGER
+		) IS
+			VARIABLE TX_STR : String(1 to 4096);
+			VARIABLE TX_LOC : LINE;
+		BEGIN
+			STD.TEXTIO.write(TX_LOC,string'("Annotate["));
+			STD.TEXTIO.write(TX_LOC, TX_TIME);
+			STD.TEXTIO.write(TX_LOC,string'(",s,"));
+			STD.TEXTIO.write(TX_LOC, s);
+			STD.TEXTIO.write(TX_LOC, string'("]"));
+			TX_STR(TX_LOC.all'range) := TX_LOC.all;
+			STD.TEXTIO.writeline(results, TX_LOC);
+			STD.TEXTIO.Deallocate(TX_LOC);
+		END;
+
+		PROCEDURE ANNOTATE_c(
+			TX_TIME : INTEGER
+		) IS
+			VARIABLE TX_STR : String(1 to 4096);
+			VARIABLE TX_LOC : LINE;
+		BEGIN
+			STD.TEXTIO.write(TX_LOC,string'("Annotate["));
+			STD.TEXTIO.write(TX_LOC, TX_TIME);
+			STD.TEXTIO.write(TX_LOC,string'(",c,"));
+			STD.TEXTIO.write(TX_LOC, c);
+			STD.TEXTIO.write(TX_LOC, string'("]"));
+			TX_STR(TX_LOC.all'range) := TX_LOC.all;
+			STD.TEXTIO.writeline(results, TX_LOC);
+			STD.TEXTIO.Deallocate(TX_LOC);
+		END;
+
+	BEGIN
+		CLOCK_LOOP : LOOP
+		b <= transport '0';
+		WAIT FOR 10 ns;
+		TX_TIME := TX_TIME + 10;
+		b <= transport '1';
+		WAIT FOR 10 ns;
+		TX_TIME := TX_TIME + 10;
+		ANNOTATE_s(TX_TIME);
+		ANNOTATE_c(TX_TIME);
+		WAIT FOR 40 ns;
+		TX_TIME := TX_TIME + 40;
+		b <= transport '0';
+		WAIT FOR 40 ns;
+		TX_TIME := TX_TIME + 40;
+		END LOOP CLOCK_LOOP;
+	END PROCESS;
+
+	PROCESS   -- Process for b
+		VARIABLE TX_OUT : LINE;
+
+		BEGIN
+		-- --------------------
+		a <= transport '0';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=100 ns
+		a <= transport '1';
+		-- --------------------
+		WAIT FOR 200 ns; -- Time=300 ns
+		a <= transport '0';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=400 ns
+		a <= transport '1';
+		-- --------------------
+		WAIT FOR 200 ns; -- Time=600 ns
+		a <= transport '0';
+		-- --------------------
+		WAIT FOR 110 ns; -- Time=710 ns
+		-- --------------------
+
+		STD.TEXTIO.write(TX_OUT, string'("Total[]"));
+		STD.TEXTIO.writeline(results, TX_OUT);
+		ASSERT (FALSE) REPORT
+			"Success! Simulation for annotation completed"
+			SEVERITY FAILURE;
+	END PROCESS;
+END testbench_arch;
+
+CONFIGURATION h_a_cfg OF h_a_tb IS
+	FOR testbench_arch
+	END FOR;
+END h_a_cfg;

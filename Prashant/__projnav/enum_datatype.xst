@@ -1,0 +1,4 @@
+set -tmpdir .
+elaborate
+-ifn enum_datatype.prj
+-ifmt mixed

@@ -1,0 +1,136 @@
+-- C:\XILINX\BIN\PRASHANT
+-- VHDL Annotation Test Bench created by
+-- HDL Bencher 6.1i
+-- Wed Dec 25 10:35:44 2019
+
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+USE IEEE.STD_LOGIC_ARITH.ALL;
+USE IEEE.STD_LOGIC_UNSIGNED.ALL;
+USE IEEE.STD_LOGIC_TEXTIO.ALL;
+USE STD.TEXTIO.ALL;
+
+ENTITY Full_adder_waveform IS
+END Full_adder_waveform;
+
+ARCHITECTURE testbench_arch OF Full_adder_waveform IS
+-- If you get a compiler error on the following line,
+-- from the menu do Options->Configuration select VHDL 87
+FILE RESULTS: TEXT OPEN WRITE_MODE IS "c:\xilinx\bin\prashant\Full_adder_waveform.ano";
+	COMPONENT full_adder
+		PORT (
+			a : In  std_logic;
+			b : In  std_logic;
+			c : In  std_logic;
+			sum : Out  std_logic;
+			carry : Out  std_logic
+		);
+	END COMPONENT;
+
+	SIGNAL a : std_logic;
+	SIGNAL b : std_logic;
+	SIGNAL c : std_logic;
+	SIGNAL sum : std_logic;
+	SIGNAL carry : std_logic;
+
+BEGIN
+	UUT : full_adder
+	PORT MAP (
+		a => a,
+		b => b,
+		c => c,
+		sum => sum,
+		carry => carry
+	);
+
+	PROCESS -- clock process for c,
+		VARIABLE TX_TIME : INTEGER :=0;
+
+		PROCEDURE ANNOTATE_sum(
+			TX_TIME : INTEGER
+		) IS
+			VARIABLE TX_STR : String(1 to 4096);
+			VARIABLE TX_LOC : LINE;
+		BEGIN
+			STD.TEXTIO.write(TX_LOC,string'("Annotate["));
+			STD.TEXTIO.write(TX_LOC, TX_TIME);
+			STD.TEXTIO.write(TX_LOC,string'(",sum,"));
+			IEEE.STD_LOGIC_TEXTIO.write(TX_LOC, sum);
+			STD.TEXTIO.write(TX_LOC, string'("]"));
+			TX_STR(TX_LOC.all'range) := TX_LOC.all;
+			STD.TEXTIO.writeline(results, TX_LOC);
+			STD.TEXTIO.Deallocate(TX_LOC);
+		END;
+
+		PROCEDURE ANNOTATE_carry(
+			TX_TIME : INTEGER
+		) IS
+			VARIABLE TX_STR : String(1 to 4096);
+			VARIABLE TX_LOC : LINE;
+		BEGIN
+			STD.TEXTIO.write(TX_LOC,string'("Annotate["));
+			STD.TEXTIO.write(TX_LOC, TX_TIME);
+			STD.TEXTIO.write(TX_LOC,string'(",carry,"));
+			IEEE.STD_LOGIC_TEXTIO.write(TX_LOC, carry);
+			STD.TEXTIO.write(TX_LOC, string'("]"));
+			TX_STR(TX_LOC.all'range) := TX_LOC.all;
+			STD.TEXTIO.writeline(results, TX_LOC);
+			STD.TEXTIO.Deallocate(TX_LOC);
+		END;
+
+	BEGIN
+		CLOCK_LOOP : LOOP
+		c <= transport '0';
+		WAIT FOR 10 ns;
+		TX_TIME := TX_TIME + 10;
+		c <= transport '1';
+		WAIT FOR 10 ns;
+		TX_TIME := TX_TIME + 10;
+		ANNOTATE_sum(TX_TIME);
+		ANNOTATE_carry(TX_TIME);
+		WAIT FOR 40 ns;
+		TX_TIME := TX_TIME + 40;
+		c <= transport '0';
+		WAIT FOR 40 ns;
+		TX_TIME := TX_TIME + 40;
+		END LOOP CLOCK_LOOP;
+	END PROCESS;
+
+	PROCESS   -- Process for c
+		VARIABLE TX_OUT : LINE;
+
+		BEGIN
+		-- --------------------
+		a <= transport '1';
+		b <= transport '1';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=100 ns
+		a <= transport '0';
+		b <= transport '0';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=200 ns
+		a <= transport '1';
+		b <= transport '1';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=300 ns
+		b <= transport '0';
+		-- --------------------
+		WAIT FOR 100 ns; -- Time=400 ns
+		a <= transport '0';
+		b <= transport '1';
+		-- --------------------
+		WAIT FOR 10 ns; -- Time=410 ns
+		-- --------------------
+
+		STD.TEXTIO.write(TX_OUT, string'("Total[]"));
+		STD.TEXTIO.writeline(results, TX_OUT);
+		ASSERT (FALSE) REPORT
+			"Success! Simulation for annotation completed"
+			SEVERITY FAILURE;
+	END PROCESS;
+END testbench_arch;
+
+CONFIGURATION full_adder_cfg OF Full_adder_waveform IS
+	FOR testbench_arch
+	END FOR;
+END full_adder_cfg;

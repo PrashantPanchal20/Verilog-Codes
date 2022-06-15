@@ -1,0 +1,5 @@
+-proj c:\xilinx\bin\prashant
+-t tb_jk.tbw
+-source jk_ff.v
+-entity jk_ff
+-ipcport 59623

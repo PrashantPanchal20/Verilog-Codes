@@ -1,0 +1,19 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.60 s | Elapsed : 0.00 / 1.00 s
+ 
+--> WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling source file "SystemVerilog.v"
+ERROR:HDLCompilers:26 - SystemVerilog.v line 4 unexpected token: '='
+ERROR:HDLCompilers:26 - SystemVerilog.v line 6 Closing quote missing in string literal
+Analysis of file <string_datatype.prj> failed.
+--> 
+
+Total memory usage is 101032 kilobytes
+
+

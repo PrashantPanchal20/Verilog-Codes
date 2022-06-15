@@ -1,0 +1,30 @@
+
+Started process "View RTL Schematic".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling source file "test.v"
+Module <test> compiled
+No errors in compilation
+Analysis of file <test.prj> succeeded.
+ 
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing top module <test>.
+ERROR:Xst:1884 - test.v line 1: Module <test> has no port.
+WARNING:Xst:854 - test.v line 3: Ignored initial statement.
+ 
+ 
+Found 1 error(s). Aborting synthesis.
+--> 
+
+Total memory usage is 101168 kilobytes
+
+
+ERROR: XST failed
+Process "View RTL Schematic" did not complete.
+

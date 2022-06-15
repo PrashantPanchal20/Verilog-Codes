@@ -1,0 +1,4 @@
+set -tmpdir .
+elaborate
+-ifn xor_gate.prj
+-ifmt mixed

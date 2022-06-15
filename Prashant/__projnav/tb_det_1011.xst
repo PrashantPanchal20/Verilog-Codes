@@ -1,0 +1,4 @@
+set -tmpdir .
+elaborate
+-ifn tb_det_1011.prj
+-ifmt mixed

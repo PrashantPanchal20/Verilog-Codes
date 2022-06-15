@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn __projnav/D_ff_latch.xst -ofn D_ff_latch.syr

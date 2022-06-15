@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn __projnav/mux_4_1_case_sel_stetement.xst -ofn mux_4_1_case_sel_stetement.syr
+ngdbuild -intstyle ise -dd c:\xilinx\bin\prashant/_ngo -i  -p xc2s15-cs144-6 mux_4_1_case_sel_stetement.ngc mux_4_1_case_sel_stetement.ngd
+map -intstyle ise -p xc2s15-cs144-6 -cm area -pr b -k 4 -c 100 -tx off -o mux_4_1_case_sel_stetement_map.ncd mux_4_1_case_sel_stetement.ngd mux_4_1_case_sel_stetement.pcf
+par -w -intstyle ise -ol std -t 1 mux_4_1_case_sel_stetement_map.ncd mux_4_1_case_sel_stetement.ncd mux_4_1_case_sel_stetement.pcf
+trce -intstyle ise -e 3 -l 3 -xml mux_4_1_case_sel_stetement mux_4_1_case_sel_stetement.ncd -o mux_4_1_case_sel_stetement.twr mux_4_1_case_sel_stetement.pcf

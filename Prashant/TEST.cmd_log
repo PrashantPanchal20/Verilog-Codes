@@ -1,0 +1,10 @@
+xst -intstyle ise -ifn __projnav/TEST.xst -ofn TEST.syr
+xst -intstyle ise -ifn __projnav/TEST.xst -ofn TEST.syr
+xst -intstyle ise -ifn __projnav/TEST.xst -ofn TEST.syr
+xst -intstyle ise -ifn __projnav/TEST.xst -ofn TEST.syr
+ngdbuild -intstyle ise -dd c:\xilinx\bin\prashant/_ngo -i  -p xc2s15-cs144-6 TEST.ngc TEST.ngd
+ngdbuild -intstyle ise -dd c:\xilinx\bin\prashant/_ngo -i  -p xc2s15-cs144-6 TEST.ngc TEST.ngd
+ngdbuild -intstyle ise -dd c:\xilinx\bin\prashant/_ngo -i  -p xc2s15-cs144-6 TEST.ngc TEST.ngd
+ngdbuild -intstyle ise -dd c:\xilinx\bin\prashant/_ngo -i  -p xc2s15-cs144-6 TEST.ngc TEST.ngd
+xst -intstyle ise -ifn __projnav/TEST.xst -ofn TEST.syr
+xst -intstyle ise -ifn __projnav/test.xst -ofn test.syr

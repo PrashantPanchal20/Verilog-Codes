@@ -1,0 +1,23 @@
+Release 6.1i - xst G.23
+Copyright (c) 1995-2003 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to .
+CPU : 0.00 / 0.20 s | Elapsed : 0.00 / 1.00 s
+ 
+--> WARNING:Xst:1885 - LSO file is empty, default list of libraries is used
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling source file "Dff_synch_rst.v"
+Module <Dff_pos_clk_synch_rst> compiled
+Compiling source file "tb_dff.v"
+ERROR:HDLCompilers:26 - tb_dff.v line 14 expecting 'end', found 'parameter'
+ERROR:HDLCompilers:26 - tb_dff.v line 14 unexpected token: '='
+Module <tb_dff> compiled
+ERROR:HDLCompilers:26 - tb_dff.v line 14 expecting 'endmodule', found '10000'
+Analysis of file <tb_dff.prj> failed.
+--> 
+
+Total memory usage is 92016 kilobytes
+
+

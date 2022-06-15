@@ -1,0 +1,4 @@
+Post Route Timing Report for Module mux_4_1_case_sel_stetement . . .
+TRACE command line and options:
+trce -intstyle ise -e 3 -l 3 -xml mux_4_1_case_sel_stetement mux_4_1_case_sel_stetement.ncd -o mux_4_1_case_sel_stetement.twr mux_4_1_case_sel_stetement.pcf
+Post Route Timing Report for Module mux_4_1_case_sel_stetement : DONE
